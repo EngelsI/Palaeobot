@@ -1,0 +1,2792 @@
+PepNovo+ Build 20101117
+Copyright 2010, The Regents of the University of California. All Rights Reserved.
+Created by Ari Frank (arf@cs.ucsd.edu)
+
+Initializing models (this might take a few seconds)... Done.
+Fragment tolerance : 0.5000
+PM tolernace       : 2.5000
+PTMs considered    : C+57:M+16:W+4:K+43:S+43:N+1:Q+1:S+80:T+80:Y+80:Q-17
+
+>> 0 0 2_191114_FoodProteomics_DDA_BASL.3594.3594. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3593 experiment=2" (SQS 0.8440)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.678	158.978	0.000	0.000	1094.537	2	AYDNATAAVAK
+
+>> 0 1 3_191114_FoodProteomics_DDA_BASL.3594.3594. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3593 experiment=2" (SQS 0.810)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.876	156.172	0.000	0.000	1094.434	2	AYDNATAAVAK
+
+>> 0 2 2_191114_FoodProteomics_DDA_BASL.3621.3621. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3619 experiment=2" (SQS 0.901)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.151	130.489	0.000	0.000	1094.433	2	YAN+1NY+80AVAK
+
+>> 0 3 3_191114_FoodProteomics_DDA_BASL.3621.3621. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3619 experiment=2" (SQS 0.891)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.669	159.983	0.000	0.000	1094.536	2	AYDNATAAVAK
+
+>> 0 4 2_191114_FoodProteomics_DDA_BASL.3648.3648. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3645 experiment=2" (SQS 0.874)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.897	154.807	0.000	0.000	1094.332	2	AYDNATAAVAK
+
+>> 0 5 3_191114_FoodProteomics_DDA_BASL.3648.3648. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3645 experiment=2" (SQS 0.827)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.845	152.048	0.000	0.000	1094.332	2	AYDNATAAVAK
+
+>> 0 6 2_191114_FoodProteomics_DDA_BASL.3672.3672. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3668 experiment=2" (SQS 0.687)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.578	105.347	0.000	0.000	1493.746	3	SKYQ+1QLAQ+1QAAKK
+
+>> 0 7 3_191114_FoodProteomics_DDA_BASL.3672.3672. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3668 experiment=2" (SQS 0.771)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.472	124.763	0.000	0.000	1493.746	3	SQYQ+1KLAQ+1QAAKK
+
+>> 0 8 2_191114_FoodProteomics_DDA_BASL.3699.3699. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3694 experiment=2" (SQS 0.706)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.998	103.682	0.000	0.000	1493.747	3	TNYQELAES+80TS+43K
+
+>> 0 9 3_191114_FoodProteomics_DDA_BASL.3699.3699. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3694 experiment=2" (SQS 0.668)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.621	123.283	0.000	0.000	1493.747	3	SQYQ+1KLAQ+1S+80S+43TK
+
+>> 0 10 2_191114_FoodProteomics_DDA_BASL.3762.3762. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3756 experiment=2" (SQS 0.990)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.217	83.704	0.000	0.000	1003.440	2	TN+1LTELRR
+
+>> 0 11 3_191114_FoodProteomics_DDA_BASL.3762.3762. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3756 experiment=2" (SQS 0.979)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.514	71.002	0.000	0.000	1003.337	2	N+1TLTARK+43R
+
+>> 0 12 2_191114_FoodProteomics_DDA_BASL.3789.3789. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3782 experiment=2" (SQS 0.835)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.497	81.195	0.000	0.000	1003.647	2	SELTEGVLR
+
+>> 0 13 3_191114_FoodProteomics_DDA_BASL.3789.3789. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3782 experiment=2" (SQS 0.583)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.922	87.910	499.677	0.000	1502.950	3	SELT+80FK+43R
+
+>> 0 14 2_191114_FoodProteomics_DDA_BASL.3816.3816. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3808 experiment=2" (SQS 0.987)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.364	78.428	0.000	0.000	1003.437	2	TDLTEAPTR
+
+>> 0 15 3_191114_FoodProteomics_DDA_BASL.3816.3816. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3808 experiment=2" (SQS 0.971)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.640	76.087	0.000	0.000	1003.334	2	TN+1LTNLK+43R
+
+>> 0 16 2_191114_FoodProteomics_DDA_BASL.3870.3870. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3861 experiment=2" (SQS 0.784)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.656	70.588	99.058	0.000	842.498	2	ATVSLPR
+
+>> 0 17 3_191114_FoodProteomics_DDA_BASL.3870.3870. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=3861 experiment=2" (SQS 0.642)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.217	82.604	0.000	0.000	842.498	2	VATVSLPR
+
+>> 0 18 2_191114_FoodProteomics_DDA_BASL.4055.4055. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4045 experiment=2" (SQS 0.994)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.507	119.427	0.000	376.239	1045.757	2	LSSPATL
+
+>> 0 19 3_191114_FoodProteomics_DDA_BASL.4055.4055. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4045 experiment=2" (SQS 0.960)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.312	143.382	0.000	0.000	1045.757	2	LSSPATLNSR
+
+>> 0 20 2_191114_FoodProteomics_DDA_BASL.4062.4062. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4051 experiment=2" (SQS 0.902)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.836	135.119	98.883	0.000	1090.312	2	TMKNLNN+1R
+
+>> 0 21 3_191114_FoodProteomics_DDA_BASL.4062.4062. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4051 experiment=2" (SQS 0.884)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.011	118.987	99.227	0.000	1090.725	2	TMKNLNDR
+
+>> 0 22 2_191114_FoodProteomics_DDA_BASL.4064.4064. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4052 experiment=2" (SQS 0.881)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.242	97.451	326.969	0.000	1372.537	2	LSSPATLNSR
+
+>> 0 23 3_191114_FoodProteomics_DDA_BASL.4064.4064. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4052 experiment=2" (SQS 0.876)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.122	98.440	327.176	0.000	1372.744	2	LSSPATLNSR
+
+>> 0 24 2_191114_FoodProteomics_DDA_BASL.4070.4070. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4057 experiment=2" (SQS 0.922)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.552	164.758	0.000	0.000	1045.730	2	LSSPATLNSR
+
+>> 0 25 3_191114_FoodProteomics_DDA_BASL.4070.4070. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4057 experiment=2" (SQS 0.913)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.694	112.277	0.000	376.194	1045.450	2	LSSPATL
+
+>> 0 26 2_191114_FoodProteomics_DDA_BASL.4072.4072. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4058 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.086	-47.393	0.000	827.474	1560.830	3	APPVGVNV
+
+>> 0 27 3_191114_FoodProteomics_DDA_BASL.4072.4072. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4058 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.545	-47.393	0.000	827.474	1560.830	3	APPVGVNV
+
+>> 0 28 2_191114_FoodProteomics_DDA_BASL.4073.4073. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4058 experiment=3" (SQS 0.314)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.567	24.717	335.221	0.000	1098.568	2	LHPGLAR
+
+>> 0 29 3_191114_FoodProteomics_DDA_BASL.4073.4073. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4058 experiment=3" (SQS 0.218)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.841	20.750	0.000	0.000	1097.358	2	S+80S+80LHS+80K+43R
+
+>> 0 30 2_191114_FoodProteomics_DDA_BASL.4075.4075. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4059 experiment=2" (SQS 0.936)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.745	160.048	0.000	0.000	1033.507	2	TLLEGEESR
+
+>> 0 31 3_191114_FoodProteomics_DDA_BASL.4075.4075. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4059 experiment=2" (SQS 0.930)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.678	147.631	0.000	0.000	1033.507	2	TLLEWESR
+
+>> 0 32 2_191114_FoodProteomics_DDA_BASL.4077.4077. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4060 experiment=2" (SQS 0.903)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.467	87.523	325.170	0.000	1370.740	2	LSSPATS+43ALR
+
+>> 0 33 3_191114_FoodProteomics_DDA_BASL.4077.4077. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4060 experiment=2" (SQS 0.904)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.820	83.335	325.372	0.000	1370.943	2	LSSPFLLLR
+
+>> 0 34 2_191114_FoodProteomics_DDA_BASL.4080.4080. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4062 experiment=2" (SQS 0.893)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.812	129.609	0.000	262.151	1045.628	2	LSSPATLN
+
+>> 0 35 3_191114_FoodProteomics_DDA_BASL.4080.4080. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4062 experiment=2" (SQS 0.742)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.525	105.689	0.000	376.196	1045.348	2	LSSPATL
+
+>> 0 36 2_191114_FoodProteomics_DDA_BASL.4090.4090. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4071 experiment=2" (SQS 0.881)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.785	134.490	101.118	0.000	1033.611	2	LLEWESR
+
+>> 0 37 3_191114_FoodProteomics_DDA_BASL.4090.4090. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4071 experiment=2" (SQS 0.929)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.564	151.214	0.000	0.000	1033.611	2	TLLEGEESR
+
+>> 0 38 2_191114_FoodProteomics_DDA_BASL.4102.4102. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4082 experiment=2" (SQS 0.966)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.209	165.090	0.000	0.000	1045.452	2	LSSPATLNSR
+
+>> 0 39 3_191114_FoodProteomics_DDA_BASL.4102.4102. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4082 experiment=2" (SQS 0.943)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.673	111.914	0.000	376.195	1045.761	2	LSSPATL
+
+>> 0 40 2_191114_FoodProteomics_DDA_BASL.4131.4131. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4110 experiment=2" (SQS 0.983)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.756	104.815	0.000	376.190	1045.556	2	LSSPATL
+
+>> 0 41 3_191114_FoodProteomics_DDA_BASL.4131.4131. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4110 experiment=2" (SQS 0.967)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.645	96.700	0.000	376.190	1045.763	2	LSSPATL
+
+>> 0 42 2_191114_FoodProteomics_DDA_BASL.4198.4198. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4176 experiment=2" (SQS 0.851)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.879	73.328	0.000	0.000	780.486	2	VLPS+43PPK
+
+>> 0 43 3_191114_FoodProteomics_DDA_BASL.4198.4198. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4176 experiment=2" (SQS 0.875)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.027	68.678	0.000	0.000	780.486	2	VLPS+43PPK
+
+>> 0 44 2_191114_FoodProteomics_DDA_BASL.4199.4199. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4176 experiment=3" (SQS 0.866)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.338	108.158	0.000	0.000	809.325	2	LASYLDK
+
+>> 0 45 3_191114_FoodProteomics_DDA_BASL.4199.4199. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4176 experiment=3" (SQS 0.865)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.015	100.833	0.000	0.000	809.325	2	LASYLDK
+
+>> 0 46 2_191114_FoodProteomics_DDA_BASL.4224.4224. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4200 experiment=2" (SQS 0.984)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.805	112.576	0.000	0.000	809.326	2	LASYLN+1K
+
+>> 0 47 3_191114_FoodProteomics_DDA_BASL.4224.4224. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4200 experiment=2" (SQS 0.921)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.242	103.914	0.000	0.000	809.326	2	LASYLSR
+
+>> 0 48 2_191114_FoodProteomics_DDA_BASL.4268.4268. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4243 experiment=2" (SQS 0.989)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.696	118.979	0.000	0.000	993.595	2	YEY+80VALR
+
+>> 0 49 3_191114_FoodProteomics_DDA_BASL.4268.4268. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4243 experiment=2" (SQS 0.891)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.954	116.453	0.000	0.000	993.595	2	YEY+80VALR
+
+>> 0 50 2_191114_FoodProteomics_DDA_BASL.4294.4294. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4268 experiment=2" (SQS 0.847)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.711	115.412	163.095	0.000	993.595	2	ENVEALR
+
+>> 0 51 3_191114_FoodProteomics_DDA_BASL.4294.4294. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4268 experiment=2" (SQS 0.839)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.549	125.111	0.000	0.000	993.595	2	YEY+80VALR
+
+>> 0 52 2_191114_FoodProteomics_DDA_BASL.4345.4345. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4318 experiment=2" (SQS 0.978)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.096	120.664	0.000	0.000	806.976	2	LAADDFR
+
+>> 0 53 3_191114_FoodProteomics_DDA_BASL.4345.4345. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4318 experiment=2" (SQS 0.919)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.584	113.289	0.000	0.000	806.976	2	LAADDFR
+
+>> 0 54 2_191114_FoodProteomics_DDA_BASL.4370.4370. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4342 experiment=2" (SQS 0.951)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.074	118.773	0.000	0.000	807.080	2	LAADDFR
+
+>> 0 55 3_191114_FoodProteomics_DDA_BASL.4370.4370. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4342 experiment=2" (SQS 0.928)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.968	107.628	0.000	0.000	807.596	2	LAADDFR
+
+>> 0 56 2_191114_FoodProteomics_DDA_BASL.4451.4451. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4422 experiment=2" (SQS 0.979)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.730	149.525	0.000	0.000	1165.574	2	LQ+1S+43LLQTYR
+
+>> 0 57 3_191114_FoodProteomics_DDA_BASL.4451.4451. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4422 experiment=2" (SQS 0.953)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.322	151.401	0.000	0.000	1165.574	2	LQ+1S+43LLQTYR
+
+>> 0 58 2_191114_FoodProteomics_DDA_BASL.4591.4591. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4561 experiment=2" (SQS 0.983)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.243	103.687	113.079	0.000	1071.745	2	LSPATLNSR
+
+>> 0 59 3_191114_FoodProteomics_DDA_BASL.4591.4591. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4561 experiment=2" (SQS 0.909)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.715	90.325	0.000	376.152	1071.465	2	LLSPATL
+
+>> 0 60 2_191114_FoodProteomics_DDA_BASL.4726.4726. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4695 experiment=2" (SQS 0.997)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.914	162.048	0.000	0.000	1381.634	2	SPEESNYELEGK
+
+>> 0 61 3_191114_FoodProteomics_DDA_BASL.4726.4726. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4695 experiment=2" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.552	172.284	0.000	0.000	1381.634	2	ALEESNYELEGK
+
+>> 0 62 2_191114_FoodProteomics_DDA_BASL.4729.4729. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4697 experiment=2" (SQS 0.931)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.308	104.899	0.000	0.000	831.483	2	SLVGLGGTK
+
+>> 0 63 3_191114_FoodProteomics_DDA_BASL.4729.4729. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4697 experiment=2" (SQS 0.917)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.590	86.494	0.000	0.000	831.483	2	SLVGLGGTK
+
+>> 0 64 2_191114_FoodProteomics_DDA_BASL.4745.4745. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4712 experiment=2" (SQS 0.556)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.653	98.505	0.000	0.000	1064.614	3	LASYLDLNR
+
+>> 0 65 3_191114_FoodProteomics_DDA_BASL.4745.4745. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4712 experiment=2" (SQS 0.798)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.461	108.121	0.000	0.000	1064.614	3	LASYLDLNR
+
+>> 0 66 2_191114_FoodProteomics_DDA_BASL.4746.4746. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4712 experiment=3" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.347	185.373	0.000	0.000	1381.632	2	ALEESNYELEGK
+
+>> 0 67 3_191114_FoodProteomics_DDA_BASL.4746.4746. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4712 experiment=3" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.411	180.284	0.000	0.000	1381.632	2	ALEESNYELEGK
+
+>> 0 68 2_191114_FoodProteomics_DDA_BASL.4749.4749. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4714 experiment=2" (SQS 0.826)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.806	96.456	0.000	0.000	831.377	2	SLVGLGS+43R
+
+>> 0 69 3_191114_FoodProteomics_DDA_BASL.4749.4749. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4714 experiment=2" (SQS 0.798)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.001	71.664	0.000	0.000	831.274	2	SLVAVGGTK
+
+>> 0 70 2_191114_FoodProteomics_DDA_BASL.4750.4750. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4714 experiment=3" (SQS 0.834)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.341	89.159	0.000	0.000	874.490	2	SLVNLGGSK
+
+>> 0 71 3_191114_FoodProteomics_DDA_BASL.4750.4750. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4714 experiment=3" (SQS 0.831)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.529	90.339	0.000	0.000	874.490	2	SLVNLGGSK
+
+>> 0 72 2_191114_FoodProteomics_DDA_BASL.4766.4766. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4729 experiment=2" (SQS 0.782)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.474	104.765	0.000	0.000	1064.386	3	LASYLDQVR
+
+>> 0 73 3_191114_FoodProteomics_DDA_BASL.4766.4766. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4729 experiment=2" (SQS 0.868)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.987	117.816	0.000	0.000	1064.623	3	LASYLDQVR
+
+>> 0 74 2_191114_FoodProteomics_DDA_BASL.4769.4769. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4731 experiment=2" (SQS 0.864)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.274	128.932	0.000	0.000	874.283	2	SLVNLGGSK
+
+>> 0 75 3_191114_FoodProteomics_DDA_BASL.4769.4769. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4731 experiment=2" (SQS 0.914)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.384	111.991	0.000	0.000	874.386	2	SLVNLGGSK
+
+>> 0 76 2_191114_FoodProteomics_DDA_BASL.4794.4794. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4755 experiment=2" (SQS 0.934)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.643	112.145	0.000	0.000	874.385	2	SLVNLGGSK
+
+>> 0 77 3_191114_FoodProteomics_DDA_BASL.4794.4794. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4755 experiment=2" (SQS 0.932)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.619	113.774	0.000	0.000	874.488	2	SLVNLGGSK
+
+>> 0 78 2_191114_FoodProteomics_DDA_BASL.4804.4804. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4764 experiment=2" (SQS 0.996)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.391	181.142	0.000	0.000	1586.751	2	NLALEEANNDLENK
+
+>> 0 79 3_191114_FoodProteomics_DDA_BASL.4804.4804. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4764 experiment=2" (SQS 0.987)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.131	186.211	0.000	0.000	1586.751	2	NLALEEANNDLENK
+
+>> 0 80 2_191114_FoodProteomics_DDA_BASL.4806.4806. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4765 experiment=2" (SQS 0.648)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.699	148.803	0.000	0.000	842.497	2	VATVSLPR
+
+>> 0 81 3_191114_FoodProteomics_DDA_BASL.4806.4806. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4765 experiment=2" (SQS 0.747)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.636	123.331	0.000	0.000	842.601	2	VATVSLPR
+
+>> 0 82 2_191114_FoodProteomics_DDA_BASL.4808.4808. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4766 experiment=2" (SQS 0.670)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.043	147.759	0.000	0.000	1421.748	3	TNAENEM+16VTLKR
+
+>> 0 83 3_191114_FoodProteomics_DDA_BASL.4808.4808. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4766 experiment=2" (SQS 0.546)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.333	156.955	0.000	0.000	1421.748	3	TNAENEM+16VTLKR
+
+>> 0 84 2_191114_FoodProteomics_DDA_BASL.4816.4816. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4773 experiment=2" (SQS 0.897)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.546	97.662	0.000	0.000	824.490	2	AAPLSLPR
+
+>> 0 85 3_191114_FoodProteomics_DDA_BASL.4816.4816. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4773 experiment=2" (SQS 0.911)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.013	86.571	0.000	0.000	824.387	2	AAPLSLPR
+
+>> 0 86 2_191114_FoodProteomics_DDA_BASL.4818.4818. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4774 experiment=2" (SQS 0.001)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.232	3.396	0.000	0.000	838.092	2	VS+80GKPDR
+
+>> 0 87 3_191114_FoodProteomics_DDA_BASL.4818.4818. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4774 experiment=2" (SQS 0.001)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.450	3.396	0.000	0.000	838.092	2	VS+80GKPDR
+
+>> 0 88 2_191114_FoodProteomics_DDA_BASL.4819.4819. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4774 experiment=3" (SQS 0.996)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.367	179.044	0.000	0.000	1586.752	2	VQALEEANNN+1LENK
+
+>> 0 89 3_191114_FoodProteomics_DDA_BASL.4819.4819. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4774 experiment=3" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.015	171.294	0.000	0.000	1586.752	2	NLALEEANNN+1LENK
+
+>> 0 90 2_191114_FoodProteomics_DDA_BASL.4821.4821. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4775 experiment=2" (SQS 0.764)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.659	114.077	0.000	215.231	842.601	2	VATVSLG
+
+>> 0 91 3_191114_FoodProteomics_DDA_BASL.4821.4821. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4775 experiment=2" (SQS 0.696)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.576	95.213	0.000	215.335	842.704	2	VATVSLG
+
+>> 0 92 2_191114_FoodProteomics_DDA_BASL.4822.4822. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4775 experiment=3" (SQS 0.111)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.407	62.839	0.000	0.000	895.416	2	GLS+43FSAN+1R
+
+>> 0 93 3_191114_FoodProteomics_DDA_BASL.4822.4822. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4775 experiment=3" (SQS 0.243)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.323	28.733	0.000	0.000	895.520	2	VATFSY+80K
+
+>> 0 94 2_191114_FoodProteomics_DDA_BASL.4824.4824. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4776 experiment=2" (SQS 0.560)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.058	61.969	0.000	0.000	670.667	2	VVSPLR
+
+>> 0 95 3_191114_FoodProteomics_DDA_BASL.4824.4824. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4776 experiment=2" (SQS 0.560)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.276	61.969	0.000	0.000	670.667	2	VVSPLR
+
+>> 0 96 2_191114_FoodProteomics_DDA_BASL.4825.4825. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4776 experiment=3" (SQS 0.714)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.247	68.757	0.000	0.000	743.436	2	ATVSLPR
+
+>> 0 97 3_191114_FoodProteomics_DDA_BASL.4825.4825. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4776 experiment=3" (SQS 0.805)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.611	68.921	0.000	0.000	743.539	2	ATVSLPR
+
+>> 0 98 2_191114_FoodProteomics_DDA_BASL.4826.4826. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4776 experiment=4" (SQS 0.049)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.154	24.847	0.000	0.000	885.690	2	AY+80T+80Y+80K
+
+>> 0 99 3_191114_FoodProteomics_DDA_BASL.4826.4826. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4776 experiment=4" (SQS 0.052)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.879	14.520	0.000	0.000	886.517	2	AVTK+43RLR
+
+>> 0 100 2_191114_FoodProteomics_DDA_BASL.4828.4828. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4777 experiment=2" (SQS 0.858)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.942	71.615	71.067	0.000	824.487	2	APLSLPR
+
+>> 0 101 3_191114_FoodProteomics_DDA_BASL.4828.4828. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4777 experiment=2" (SQS 0.889)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.538	95.037	0.000	0.000	824.487	2	VPGVSLPR
+
+>> 0 102 2_191114_FoodProteomics_DDA_BASL.4829.4829. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4777 experiment=3" (SQS 0.783)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.071	118.267	0.000	214.877	842.246	2	VATVEAG
+
+>> 0 103 3_191114_FoodProteomics_DDA_BASL.4829.4829. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4777 experiment=3" (SQS 0.624)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.129	147.341	0.000	0.000	842.349	2	VATVSLPR
+
+>> 0 104 2_191114_FoodProteomics_DDA_BASL.4830.4830. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4777 experiment=4" (SQS 0.693)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.843	129.228	0.000	215.035	842.407	2	VATVSLG
+
+>> 0 105 3_191114_FoodProteomics_DDA_BASL.4830.4830. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4777 experiment=4" (SQS 0.625)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.237	131.419	0.000	0.000	842.407	2	VATVSLPR
+
+>> 0 106 2_191114_FoodProteomics_DDA_BASL.4833.4833. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4779 experiment=2" (SQS 0.000)
+# No solutions found.
+
+>> 0 107 3_191114_FoodProteomics_DDA_BASL.4833.4833. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4779 experiment=2" (SQS 0.000)
+# No solutions found.
+
+>> 0 108 2_191114_FoodProteomics_DDA_BASL.4834.4834. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4779 experiment=3" (SQS 0.994)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.169	21.967	111.239	0.000	937.811	1	GS+43S+80SLPR
+
+>> 0 109 3_191114_FoodProteomics_DDA_BASL.4834.4834. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4779 experiment=3" (SQS 0.994)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.169	21.967	111.239	0.000	937.811	1	GS+43S+80SLPR
+
+>> 0 110 2_191114_FoodProteomics_DDA_BASL.4836.4836. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4780 experiment=2" (SQS 0.704)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.599	122.508	0.000	0.000	832.482	2	SLSLSVAR
+
+>> 0 111 3_191114_FoodProteomics_DDA_BASL.4836.4836. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4780 experiment=2" (SQS 0.687)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.605	122.910	0.000	0.000	832.482	2	SLSLSVAR
+
+>> 0 112 2_191114_FoodProteomics_DDA_BASL.4837.4837. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4780 experiment=3" (SQS 0.749)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.359	115.004	99.058	0.000	842.499	2	ATADLPR
+
+>> 0 113 3_191114_FoodProteomics_DDA_BASL.4837.4837. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4780 experiment=3" (SQS 0.576)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.158	137.613	0.000	0.000	842.396	2	AVTVSLPR
+
+>> 0 114 2_191114_FoodProteomics_DDA_BASL.4838.4838. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4780 experiment=4" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.134	150.766	0.000	0.000	1206.598	2	QVLDNLTEM+16K
+
+>> 0 115 3_191114_FoodProteomics_DDA_BASL.4838.4838. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4780 experiment=4" (SQS 0.984)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.825	149.059	0.000	0.000	1206.598	2	QVLDNLTFEK
+
+>> 0 116 2_191114_FoodProteomics_DDA_BASL.4841.4841. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4782 experiment=2" (SQS 0.277)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.201	46.636	0.000	0.000	894.583	2	VGDVLS+80PK
+
+>> 0 117 3_191114_FoodProteomics_DDA_BASL.4841.4841. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4782 experiment=2" (SQS 0.397)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.737	21.934	0.000	0.000	895.409	2	VGDQLHAR
+
+>> 0 118 2_191114_FoodProteomics_DDA_BASL.4843.4843. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4783 experiment=2" (SQS 0.844)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.567	84.781	0.000	0.000	824.489	2	AAPLSLPR
+
+>> 0 119 3_191114_FoodProteomics_DDA_BASL.4843.4843. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4783 experiment=2" (SQS 0.857)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.362	83.995	0.000	0.000	824.489	2	AAPLSLPR
+
+>> 0 120 2_191114_FoodProteomics_DDA_BASL.4845.4845. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4784 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.541	11.307	0.000	0.000	837.269	2	N+1GGS+43RFR
+
+>> 0 121 3_191114_FoodProteomics_DDA_BASL.4845.4845. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4784 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.060	11.307	0.000	0.000	837.269	2	N+1GGS+43RFR
+
+>> 0 122 2_191114_FoodProteomics_DDA_BASL.4846.4846. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4784 experiment=3" (SQS 0.989)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.275	148.520	0.000	0.000	1421.829	2	SSLTAFY+80LQALK
+
+>> 0 123 3_191114_FoodProteomics_DDA_BASL.4846.4846. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4784 experiment=3" (SQS 0.969)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.388	149.177	174.174	0.000	1421.829	2	LTAFENPNTLK
+
+>> 0 124 2_191114_FoodProteomics_DDA_BASL.4848.4848. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4785 experiment=2" (SQS 0.844)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.702	104.515	87.032	0.000	832.480	2	LSLSVAR
+
+>> 0 125 3_191114_FoodProteomics_DDA_BASL.4848.4848. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4785 experiment=2" (SQS 0.787)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.030	94.387	87.033	0.000	832.480	2	LSLSVAR
+
+>> 0 126 2_191114_FoodProteomics_DDA_BASL.4849.4849. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4785 experiment=3" (SQS 0.660)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.439	114.337	0.000	215.406	842.779	2	VATVSLG
+
+>> 0 127 3_191114_FoodProteomics_DDA_BASL.4849.4849. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4785 experiment=3" (SQS 0.741)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.883	131.114	0.000	0.000	842.293	2	VATVSLPR
+
+>> 0 128 2_191114_FoodProteomics_DDA_BASL.4850.4850. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4785 experiment=4" (SQS 0.807)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.531	116.921	0.000	0.000	856.405	2	LATVSLPR
+
+>> 0 129 3_191114_FoodProteomics_DDA_BASL.4850.4850. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4785 experiment=4" (SQS 0.813)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.205	114.425	0.000	0.000	856.405	2	LATVSLPR
+
+>> 0 130 2_191114_FoodProteomics_DDA_BASL.4856.4856. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4790 experiment=2" (SQS 0.872)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.788	97.159	0.000	0.000	844.476	2	VATVEAVR
+
+>> 0 131 3_191114_FoodProteomics_DDA_BASL.4856.4856. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4790 experiment=2" (SQS 0.930)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.364	59.771	0.000	173.212	845.613	2	VATTKAT
+
+>> 0 132 2_191114_FoodProteomics_DDA_BASL.4858.4858. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4791 experiment=2" (SQS 0.830)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.570	60.913	0.000	0.000	823.453	2	AT+80VSLPR
+
+>> 0 133 3_191114_FoodProteomics_DDA_BASL.4858.4858. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4791 experiment=2" (SQS 0.728)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.421	69.827	0.000	0.000	824.589	2	AAPLSLPR
+
+>> 0 134 2_191114_FoodProteomics_DDA_BASL.4860.4860. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4792 experiment=2" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.044	173.377	0.000	0.000	1421.722	2	SSLTAM+16ENLQALK
+
+>> 0 135 3_191114_FoodProteomics_DDA_BASL.4860.4860. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4792 experiment=2" (SQS 0.992)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.313	156.065	0.000	0.000	1422.829	2	M+16LTVFELLVTLK
+
+>> 0 136 2_191114_FoodProteomics_DDA_BASL.4862.4862. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4793 experiment=2" (SQS 0.799)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.853	153.459	0.000	0.000	842.291	2	VATVSLPR
+
+>> 0 137 3_191114_FoodProteomics_DDA_BASL.4862.4862. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4793 experiment=2" (SQS 0.819)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.009	132.780	0.000	0.000	842.291	2	VATVSLPR
+
+>> 0 138 2_191114_FoodProteomics_DDA_BASL.4863.4863. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4793 experiment=3" (SQS 0.971)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.224	134.702	112.931	0.000	856.309	2	ATVLALR
+
+>> 0 139 3_191114_FoodProteomics_DDA_BASL.4863.4863. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4793 experiment=3" (SQS 0.978)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.856	134.496	0.000	0.000	856.516	2	LATVSLPR
+
+>> 0 140 2_191114_FoodProteomics_DDA_BASL.4872.4872. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4801 experiment=2" (SQS 0.606)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.072	56.905	0.000	571.356	1270.763	2	ALTELAT
+
+>> 0 141 3_191114_FoodProteomics_DDA_BASL.4872.4872. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4801 experiment=2" (SQS 0.156)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.905	52.243	0.000	571.356	1270.763	2	ATLELAT
+
+>> 0 142 2_191114_FoodProteomics_DDA_BASL.4877.4877. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4805 experiment=2" (SQS 0.997)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.147	185.460	0.000	0.000	1421.824	2	SSLTAM+16LLEVTLK
+
+>> 0 143 3_191114_FoodProteomics_DDA_BASL.4877.4877. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4805 experiment=2" (SQS 0.987)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.085	144.766	174.186	0.000	1421.824	2	LTAM+16Y+80PNTLK
+
+>> 0 144 2_191114_FoodProteomics_DDA_BASL.4879.4879. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4806 experiment=2" (SQS 0.791)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.198	120.246	0.000	0.000	842.292	2	VATVSLPR
+
+>> 0 145 3_191114_FoodProteomics_DDA_BASL.4879.4879. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4806 experiment=2" (SQS 0.675)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.661	113.757	0.000	0.000	842.395	2	VATVSLPR
+
+>> 0 146 2_191114_FoodProteomics_DDA_BASL.4880.4880. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4806 experiment=3" (SQS 0.977)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.615	138.944	113.144	0.000	856.618	2	ATVLALR
+
+>> 0 147 3_191114_FoodProteomics_DDA_BASL.4880.4880. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4806 experiment=3" (SQS 0.980)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.731	133.750	0.000	0.000	856.618	2	LATVSPLR
+
+>> 0 148 2_191114_FoodProteomics_DDA_BASL.4882.4882. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4807 experiment=2" (SQS 0.966)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.330	113.119	146.971	0.000	1066.285	2	Q+1MQ+1QNLR
+
+>> 0 149 3_191114_FoodProteomics_DDA_BASL.4882.4882. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4807 experiment=2" (SQS 0.957)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.484	106.779	147.054	0.000	1066.491	2	Q+1MQ+1QNLR
+
+>> 0 150 2_191114_FoodProteomics_DDA_BASL.4894.4894. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4818 experiment=2" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.903	155.912	174.081	0.000	1421.727	2	LTAM+16ENQALLK
+
+>> 0 151 3_191114_FoodProteomics_DDA_BASL.4894.4894. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4818 experiment=2" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.963	151.108	0.000	0.000	1421.830	2	ES+43EAFLS+43EES+80K
+
+>> 0 152 2_191114_FoodProteomics_DDA_BASL.4896.4896. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4819 experiment=2" (SQS 0.615)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.523	131.555	0.000	0.000	842.393	2	VATVSLPR
+
+>> 0 153 3_191114_FoodProteomics_DDA_BASL.4896.4896. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4819 experiment=2" (SQS 0.594)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.646	109.637	0.000	0.000	842.599	2	VATVSLPR
+
+>> 0 154 2_191114_FoodProteomics_DDA_BASL.4897.4897. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4819 experiment=3" (SQS 0.962)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.104	132.719	0.000	0.000	856.514	2	LATVSLPR
+
+>> 0 155 3_191114_FoodProteomics_DDA_BASL.4897.4897. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4819 experiment=3" (SQS 0.973)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.151	133.806	0.000	0.000	856.514	2	LATVSLPR
+
+>> 0 156 2_191114_FoodProteomics_DDA_BASL.4899.4899. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4820 experiment=2" (SQS 0.965)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.286	126.983	147.101	0.000	1066.594	2	EMEQNLR
+
+>> 0 157 3_191114_FoodProteomics_DDA_BASL.4899.4899. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4820 experiment=2" (SQS 0.965)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.450	124.412	147.140	0.000	1066.697	2	EMEQNLR
+
+>> 0 158 2_191114_FoodProteomics_DDA_BASL.4901.4901. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4821 experiment=2" (SQS 0.666)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.048	29.314	0.000	0.000	905.368	2	S+80ESSFLR
+
+>> 0 159 3_191114_FoodProteomics_DDA_BASL.4901.4901. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4821 experiment=2" (SQS 0.385)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.831	109.857	0.000	0.000	1357.730	3	TNVGVTVSFT+80PR
+
+>> 0 160 2_191114_FoodProteomics_DDA_BASL.4904.4904. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4823 experiment=2" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.258	109.761	0.000	0.000	870.426	2	VVTVSLPR
+
+>> 0 161 3_191114_FoodProteomics_DDA_BASL.4904.4904. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4823 experiment=2" (SQS 0.976)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.256	108.189	0.000	0.000	870.530	2	VVTVSLPR
+
+>> 0 162 2_191114_FoodProteomics_DDA_BASL.4906.4906. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4824 experiment=2" (SQS 0.724)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.328	126.105	0.000	0.000	842.604	2	VATVSLPR
+
+>> 0 163 3_191114_FoodProteomics_DDA_BASL.4906.4906. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4824 experiment=2" (SQS 0.740)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.385	110.579	99.060	0.000	842.501	2	ATVSLPR
+
+>> 0 164 2_191114_FoodProteomics_DDA_BASL.4908.4908. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4825 experiment=2" (SQS 0.931)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.668	78.962	0.000	201.122	856.311	2	LATVSPS
+
+>> 0 165 3_191114_FoodProteomics_DDA_BASL.4908.4908. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4825 experiment=2" (SQS 0.896)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.652	94.049	112.930	0.000	856.311	2	ATVSPLR
+
+>> 0 166 2_191114_FoodProteomics_DDA_BASL.4910.4910. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4826 experiment=2" (SQS 0.537)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.220	76.286	0.000	0.000	1354.838	3	LVVEADLGVLK+43R
+
+>> 0 167 3_191114_FoodProteomics_DDA_BASL.4910.4910. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4826 experiment=2" (SQS 0.456)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.187	88.615	0.000	0.000	1356.903	3	TNVQADS+43HFS+80K
+
+>> 0 168 2_191114_FoodProteomics_DDA_BASL.4913.4913. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4828 experiment=2" (SQS 0.958)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.422	128.775	0.000	0.000	870.427	2	VVTVSLPR
+
+>> 0 169 3_191114_FoodProteomics_DDA_BASL.4913.4913. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4828 experiment=2" (SQS 0.970)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.736	110.689	0.000	0.000	870.427	2	VVTVSLPR
+
+>> 0 170 2_191114_FoodProteomics_DDA_BASL.4915.4915. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4829 experiment=2" (SQS 0.648)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.543	125.562	0.000	0.000	842.396	2	VATVSLPR
+
+>> 0 171 3_191114_FoodProteomics_DDA_BASL.4915.4915. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4829 experiment=2" (SQS 0.691)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.151	119.524	0.000	0.000	842.500	2	VATVSLPR
+
+>> 0 172 2_191114_FoodProteomics_DDA_BASL.4919.4919. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4832 experiment=2" (SQS 0.145)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.226	22.012	0.000	0.000	866.141	2	T+80FLLHR
+
+>> 0 173 3_191114_FoodProteomics_DDA_BASL.4919.4919. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4832 experiment=2" (SQS 0.003)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.374	22.658	0.000	0.000	433.125	1	VGS+43K
+
+>> 0 174 2_191114_FoodProteomics_DDA_BASL.4921.4921. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4833 experiment=2" (SQS 0.836)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.115	26.283	0.000	0.000	905.266	2	S+43CMGLS+80K
+
+>> 0 175 3_191114_FoodProteomics_DDA_BASL.4921.4921. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4833 experiment=2" (SQS 0.586)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.672	89.831	0.000	0.000	1357.733	3	NTVGS+80EGEEEAR
+
+>> 0 176 2_191114_FoodProteomics_DDA_BASL.4922.4922. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4833 experiment=3" (SQS 0.971)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.241	173.400	0.000	0.000	1157.581	2	NAVN+1ADLNGLR
+
+>> 0 177 3_191114_FoodProteomics_DDA_BASL.4922.4922. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4833 experiment=3" (SQS 0.982)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.841	167.354	0.000	0.000	1157.477	2	NAVN+1ADLNGLR
+
+>> 0 178 2_191114_FoodProteomics_DDA_BASL.4924.4924. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4834 experiment=2" (SQS 0.839)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.569	121.183	99.095	0.000	870.428	2	VTVSLPR
+
+>> 0 179 3_191114_FoodProteomics_DDA_BASL.4924.4924. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4834 experiment=2" (SQS 0.904)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.547	104.516	99.114	0.000	870.737	2	VTVSLPR
+
+>> 0 180 2_191114_FoodProteomics_DDA_BASL.4926.4926. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4835 experiment=2" (SQS 0.613)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.561	125.089	0.000	0.000	842.392	2	VATVSLPR
+
+>> 0 181 3_191114_FoodProteomics_DDA_BASL.4926.4926. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4835 experiment=2" (SQS 0.656)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.445	101.966	98.992	0.000	842.392	2	ATVSLPR
+
+>> 0 182 2_191114_FoodProteomics_DDA_BASL.4927.4927. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4835 experiment=3" (SQS 0.918)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.094	190.020	0.000	0.000	1475.774	2	LFQ+1QQNQVLQTK
+
+>> 0 183 3_191114_FoodProteomics_DDA_BASL.4927.4927. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4835 experiment=3" (SQS 0.916)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.949	189.128	147.061	0.000	1475.774	2	LQ+1QQNQVLQTK
+
+>> 0 184 2_191114_FoodProteomics_DDA_BASL.4930.4930. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4837 experiment=2" (SQS 0.215)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.770	35.597	0.000	0.000	867.458	2	EEALLHR
+
+>> 0 185 3_191114_FoodProteomics_DDA_BASL.4930.4930. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4837 experiment=2" (SQS 0.204)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.191	25.049	0.000	0.000	867.562	2	EQ+1ALLHR
+
+>> 0 186 2_191114_FoodProteomics_DDA_BASL.4932.4932. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4838 experiment=2" (SQS 0.316)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.529	79.626	0.000	0.000	1357.733	3	KSVEGEGS+80ESLR
+
+>> 0 187 3_191114_FoodProteomics_DDA_BASL.4932.4932. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4838 experiment=2" (SQS 0.343)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.217	86.677	0.000	0.000	1357.733	3	KSVEGEGS+80ESLR
+
+>> 0 188 2_191114_FoodProteomics_DDA_BASL.4933.4933. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4838 experiment=3" (SQS 0.945)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.362	192.439	0.000	0.000	1157.585	2	KGVN+1ADLNGLR
+
+>> 0 189 3_191114_FoodProteomics_DDA_BASL.4933.4933. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4838 experiment=3" (SQS 0.964)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.297	185.004	0.000	0.000	1157.585	2	KGVDADLNGLR
+
+>> 0 190 2_191114_FoodProteomics_DDA_BASL.4935.4935. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4839 experiment=2" (SQS 0.985)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.955	129.271	0.000	0.000	870.530	2	VVTVSLPR
+
+>> 0 191 3_191114_FoodProteomics_DDA_BASL.4935.4935. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4839 experiment=2" (SQS 0.985)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.970	106.839	99.095	0.000	870.427	2	VTVSLPR
+
+>> 0 192 2_191114_FoodProteomics_DDA_BASL.4936.4936. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4839 experiment=3" (SQS 0.944)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	13.330	140.488	0.000	0.000	973.520	2	LELSELNR
+
+>> 0 193 3_191114_FoodProteomics_DDA_BASL.4936.4936. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4839 experiment=3" (SQS 0.954)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.406	141.920	0.000	0.000	973.520	2	LELSELNR
+
+>> 0 194 2_191114_FoodProteomics_DDA_BASL.4938.4938. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4840 experiment=2" (SQS 0.650)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.429	127.943	0.000	0.000	842.498	2	VATVSLPR
+
+>> 0 195 3_191114_FoodProteomics_DDA_BASL.4938.4938. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4840 experiment=2" (SQS 0.546)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.112	116.153	0.000	0.000	842.498	2	VATVSLPR
+
+>> 0 196 2_191114_FoodProteomics_DDA_BASL.4939.4939. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4840 experiment=3" (SQS 0.908)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.159	190.462	147.045	0.000	1475.768	2	LQ+1QQNQVLQTK
+
+>> 0 197 3_191114_FoodProteomics_DDA_BASL.4939.4939. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4840 experiment=3" (SQS 0.780)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.199	201.579	147.045	0.000	1475.768	2	LQ+1QQNQVLQTK
+
+>> 0 198 2_191114_FoodProteomics_DDA_BASL.4958.4958. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4858 experiment=2" (SQS 0.963)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.378	91.446	0.000	0.000	870.427	2	VVTVSLPR
+
+>> 0 199 3_191114_FoodProteomics_DDA_BASL.4958.4958. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4858 experiment=2" (SQS 0.951)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.649	80.961	0.000	0.000	870.427	2	VVTVSLPR
+
+>> 0 200 2_191114_FoodProteomics_DDA_BASL.4959.4959. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4858 experiment=3" (SQS 0.957)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	13.181	138.871	0.000	0.000	973.521	2	LELSELNR
+
+>> 0 201 3_191114_FoodProteomics_DDA_BASL.4959.4959. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4858 experiment=3" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.011	141.515	0.000	0.000	973.521	2	LELSELNR
+
+>> 0 202 2_191114_FoodProteomics_DDA_BASL.4961.4961. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4859 experiment=2" (SQS 0.714)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.220	94.776	71.071	0.000	842.292	2	VTVSLPR
+
+>> 0 203 3_191114_FoodProteomics_DDA_BASL.4961.4961. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4859 experiment=2" (SQS 0.587)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.909	112.271	0.000	0.000	842.292	2	AVTVSLPR
+
+>> 0 204 2_191114_FoodProteomics_DDA_BASL.4962.4962. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4859 experiment=3" (SQS 0.899)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.755	176.157	147.136	0.000	1475.873	2	LQ+1QQNQVLQTK
+
+>> 0 205 3_191114_FoodProteomics_DDA_BASL.4962.4962. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4859 experiment=3" (SQS 0.850)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.909	180.089	147.136	0.000	1475.873	2	LQ+1QQNQVLQTK
+
+>> 0 206 2_191114_FoodProteomics_DDA_BASL.4964.4964. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4860 experiment=2" (SQS 0.820)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.295	109.606	162.984	0.000	1037.310	2	LN+1GLTAER
+
+>> 0 207 3_191114_FoodProteomics_DDA_BASL.4964.4964. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4860 experiment=2" (SQS 0.736)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.274	111.497	162.984	0.000	1037.310	2	LN+1GLTAER
+
+>> 0 208 2_191114_FoodProteomics_DDA_BASL.4974.4974. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4869 experiment=2" (SQS 0.930)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.364	45.381	99.103	0.000	870.427	2	VTVLLAR
+
+>> 0 209 3_191114_FoodProteomics_DDA_BASL.4974.4974. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4869 experiment=2" (SQS 0.930)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.817	45.381	99.103	0.000	870.427	2	VTVLLAR
+
+>> 0 210 2_191114_FoodProteomics_DDA_BASL.4975.4975. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4869 experiment=3" (SQS 0.973)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.914	135.961	0.000	0.000	973.314	2	LELSELNR
+
+>> 0 211 3_191114_FoodProteomics_DDA_BASL.4975.4975. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4869 experiment=3" (SQS 0.969)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.863	133.184	0.000	0.000	973.521	2	LELSELNR
+
+>> 0 212 2_191114_FoodProteomics_DDA_BASL.4977.4977. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4870 experiment=2" (SQS 0.711)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.350	96.765	71.071	0.000	842.500	2	VSLSLPR
+
+>> 0 213 3_191114_FoodProteomics_DDA_BASL.4977.4977. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4870 experiment=2" (SQS 0.559)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.034	112.372	0.000	0.000	842.500	2	VATVSLPR
+
+>> 0 214 2_191114_FoodProteomics_DDA_BASL.4980.4980. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4872 experiment=2" (SQS 0.941)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.968	103.178	163.057	0.000	1037.517	2	LN+1GLTSLR
+
+>> 0 215 3_191114_FoodProteomics_DDA_BASL.4980.4980. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4872 experiment=2" (SQS 0.903)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.993	101.907	163.090	0.000	1037.620	2	LN+1GLTSLR
+
+>> 0 216 2_191114_FoodProteomics_DDA_BASL.4995.4995. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4886 experiment=2" (SQS 0.963)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.223	162.734	0.000	232.133	1179.587	2	YQ+1Q+1LQLTA
+
+>> 0 217 3_191114_FoodProteomics_DDA_BASL.4995.4995. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4886 experiment=2" (SQS 0.961)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.601	191.442	0.000	0.000	1179.587	2	YEELQLTAGR
+
+>> 0 218 2_191114_FoodProteomics_DDA_BASL.5009.5009. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4899 experiment=2" (SQS 0.720)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.998	119.572	0.000	0.000	842.498	2	VATVSLPR
+
+>> 0 219 3_191114_FoodProteomics_DDA_BASL.5009.5009. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4899 experiment=2" (SQS 0.709)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.497	77.649	0.000	214.916	842.291	2	VASLSLG
+
+>> 0 220 2_191114_FoodProteomics_DDA_BASL.5015.5015. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4904 experiment=2" (SQS 0.875)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.378	167.898	163.049	0.000	1179.591	2	EELQLTKR
+
+>> 0 221 3_191114_FoodProteomics_DDA_BASL.5015.5015. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4904 experiment=2" (SQS 0.969)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.669	184.597	0.000	0.000	1179.591	2	YEELQLTKR
+
+>> 0 222 2_191114_FoodProteomics_DDA_BASL.5031.5031. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4919 experiment=2" (SQS 0.586)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.445	125.145	0.000	0.000	842.292	2	VATVSLPR
+
+>> 0 223 3_191114_FoodProteomics_DDA_BASL.5031.5031. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4919 experiment=2" (SQS 0.699)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.806	87.379	0.000	214.923	842.292	2	VATVSLG
+
+>> 0 224 2_191114_FoodProteomics_DDA_BASL.5034.5034. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4921 experiment=2" (SQS 0.979)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.220	161.374	0.000	232.139	1179.591	2	YQ+1Q+1LQLTA
+
+>> 0 225 3_191114_FoodProteomics_DDA_BASL.5034.5034. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4921 experiment=2" (SQS 0.968)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.046	154.485	0.000	232.139	1179.591	2	YQ+1Q+1LQLTA
+
+>> 0 226 2_191114_FoodProteomics_DDA_BASL.5036.5036. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4922 experiment=2" (SQS 0.696)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.744	42.641	0.000	366.165	1141.470	2	Q-17T+80VSTPV
+
+>> 0 227 3_191114_FoodProteomics_DDA_BASL.5036.5036. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4922 experiment=2" (SQS 0.505)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.781	27.554	261.110	0.000	1139.430	2	QSNFPS+43R
+
+>> 0 228 2_191114_FoodProteomics_DDA_BASL.5038.5038. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4923 experiment=2" (SQS 0.977)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.338	125.847	0.000	0.000	1088.669	2	GVSSPATNLDK
+
+>> 0 229 3_191114_FoodProteomics_DDA_BASL.5038.5038. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4923 experiment=2" (SQS 0.963)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.948	105.215	0.000	0.000	1088.772	2	LS+43SPATLNSR
+
+>> 0 230 2_191114_FoodProteomics_DDA_BASL.5084.5084. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4968 experiment=2" (SQS 0.540)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.164	100.601	478.170	0.000	1434.781	3	FELQTYR
+
+>> 0 231 3_191114_FoodProteomics_DDA_BASL.5084.5084. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4968 experiment=2" (SQS 0.703)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.472	96.089	511.310	0.000	1434.781	3	S+43LLQTYR
+
+>> 0 232 2_191114_FoodProteomics_DDA_BASL.5105.5105. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4988 experiment=2" (SQS 0.912)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.080	134.651	0.000	232.133	1193.601	2	YQ+1ELAGVTV
+
+>> 0 233 3_191114_FoodProteomics_DDA_BASL.5105.5105. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4988 experiment=2" (SQS 0.958)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.143	155.716	0.000	0.000	1193.601	2	YEELQVTVGR
+
+>> 0 234 2_191114_FoodProteomics_DDA_BASL.5107.5107. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4989 experiment=2" (SQS 0.443)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.096	92.061	236.114	0.000	1434.782	3	K+43AFELQTYR
+
+>> 0 235 3_191114_FoodProteomics_DDA_BASL.5107.5107. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=4989 experiment=2" (SQS 0.767)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.933	97.236	283.140	0.000	1434.782	3	QQ+1TLLQTYR
+
+>> 0 236 2_191114_FoodProteomics_DDA_BASL.5128.5128. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5009 experiment=2" (SQS 0.980)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.261	173.516	0.000	0.000	1193.607	2	YQ+1ELQVTVGR
+
+>> 0 237 3_191114_FoodProteomics_DDA_BASL.5128.5128. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5009 experiment=2" (SQS 0.967)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.531	170.875	0.000	0.000	1193.607	2	YEELQVTVGR
+
+>> 0 238 2_191114_FoodProteomics_DDA_BASL.5134.5134. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5014 experiment=2" (SQS 0.392)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.473	103.867	301.210	0.000	1434.780	3	VS+80S+43GLQTYR
+
+>> 0 239 3_191114_FoodProteomics_DDA_BASL.5134.5134. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5014 experiment=2" (SQS 0.498)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.333	101.266	252.157	0.000	1434.780	3	LLFQ+1LQTYR
+
+>> 0 240 2_191114_FoodProteomics_DDA_BASL.5154.5154. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5033 experiment=2" (SQS 0.552)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.070	113.894	0.000	0.000	827.419	2	M+16ASFLN+1K
+
+>> 0 241 3_191114_FoodProteomics_DDA_BASL.5154.5154. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5033 experiment=2" (SQS 0.671)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.882	108.551	0.000	0.000	827.419	2	M+16ASFLN+1K
+
+>> 0 242 2_191114_FoodProteomics_DDA_BASL.5166.5166. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5044 experiment=2" (SQS 0.432)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.732	42.494	0.000	0.000	951.288	2	S+80NSLS+80KR
+
+>> 0 243 3_191114_FoodProteomics_DDA_BASL.5166.5166. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5044 experiment=2" (SQS 0.351)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.997	32.197	0.000	0.000	952.704	2	TT+80T+80LS+43AR
+
+>> 0 244 2_191114_FoodProteomics_DDA_BASL.5168.5168. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5045 experiment=2" (SQS 0.743)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.915	91.732	0.000	755.416	2196.091	3	YSQGDVASVGVTYD
+
+>> 0 245 3_191114_FoodProteomics_DDA_BASL.5168.5168. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5045 experiment=2" (SQS 0.391)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.451	112.029	0.000	755.416	2196.091	3	HLQGNVSAVGVTYD
+
+>> 0 246 2_191114_FoodProteomics_DDA_BASL.5170.5170. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5046 experiment=2" (SQS 0.630)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.578	109.188	0.000	0.000	827.598	2	M+16ASFLN+1K
+
+>> 0 247 3_191114_FoodProteomics_DDA_BASL.5170.5170. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5046 experiment=2" (SQS 0.827)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.123	105.529	0.000	0.000	827.598	2	M+16ASFLN+1K
+
+>> 0 248 2_191114_FoodProteomics_DDA_BASL.5174.5174. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5049 experiment=2" (SQS 0.984)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.163	158.981	0.000	0.000	1265.630	2	NTAENEM+16VTLK
+
+>> 0 249 3_191114_FoodProteomics_DDA_BASL.5174.5174. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5049 experiment=2" (SQS 0.962)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.256	146.876	0.000	0.000	1265.630	2	NTAENEM+16VTLK
+
+>> 0 250 2_191114_FoodProteomics_DDA_BASL.5181.5181. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5055 experiment=2" (SQS 0.168)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.963	34.853	0.000	0.000	1145.550	1	FQDGLVSGS+80R
+
+>> 0 251 3_191114_FoodProteomics_DDA_BASL.5181.5181. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5055 experiment=2" (SQS 0.125)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.271	40.619	275.122	0.000	1145.550	1	DGLVPLTR
+
+>> 0 252 2_191114_FoodProteomics_DDA_BASL.5183.5183. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5056 experiment=2" (SQS 0.847)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.142	79.170	0.000	821.349	2193.330	3	KFVGTLSK+43GVTPD
+
+>> 0 253 3_191114_FoodProteomics_DDA_BASL.5183.5183. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5056 experiment=2" (SQS 0.660)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.408	98.675	250.008	561.334	2195.857	3	QGNVSAVGVTYDGH
+
+>> 0 254 2_191114_FoodProteomics_DDA_BASL.5189.5189. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5061 experiment=2" (SQS 0.955)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.375	152.128	0.000	0.000	1265.625	2	NTAENEM+16VTLK
+
+>> 0 255 3_191114_FoodProteomics_DDA_BASL.5189.5189. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5061 experiment=2" (SQS 0.958)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.388	152.144	0.000	0.000	1265.625	2	NTAENEM+16VTLK
+
+>> 0 256 2_191114_FoodProteomics_DDA_BASL.5191.5191. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5062 experiment=2" (SQS 0.976)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.303	159.621	128.059	0.000	1190.596	2	VLDNLTMEK
+
+>> 0 257 3_191114_FoodProteomics_DDA_BASL.5191.5191. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5062 experiment=2" (SQS 0.979)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.442	132.800	0.000	0.000	1190.596	2	QVLDNLTS+43S+43K
+
+>> 0 258 2_191114_FoodProteomics_DDA_BASL.5197.5197. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5067 experiment=2" (SQS 0.635)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.432	63.141	0.000	645.828	2196.085	3	YSQK+43VSAVGVTYHS
+
+>> 0 259 3_191114_FoodProteomics_DDA_BASL.5197.5197. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5067 experiment=2" (SQS 0.465)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.673	105.363	0.000	698.393	2196.085	3	HLQK+43VSAVGVTYDG
+
+>> 0 260 2_191114_FoodProteomics_DDA_BASL.5199.5199. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5068 experiment=2" (SQS 0.983)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.138	193.687	128.027	0.000	1390.665	2	SLEASLAETEGR
+
+>> 0 261 3_191114_FoodProteomics_DDA_BASL.5199.5199. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5068 experiment=2" (SQS 0.982)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.624	184.058	0.000	0.000	1390.665	2	KSLEASLAETWR
+
+>> 0 262 2_191114_FoodProteomics_DDA_BASL.5208.5208. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5076 experiment=2" (SQS 0.910)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.228	147.141	0.000	0.000	1190.597	2	LNLN+1NLTLFK
+
+>> 0 263 3_191114_FoodProteomics_DDA_BASL.5208.5208. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5076 experiment=2" (SQS 0.908)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.636	112.455	0.000	0.000	1190.597	2	LNLN+1NLTMQ+1K
+
+>> 0 264 2_191114_FoodProteomics_DDA_BASL.5211.5211. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5078 experiment=2" (SQS 0.714)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.658	75.038	532.187	0.000	2193.530	3	LSAVGVTYHSEY+80VR
+
+>> 0 265 3_191114_FoodProteomics_DDA_BASL.5211.5211. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5078 experiment=2" (SQS 0.606)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.064	102.258	0.000	823.460	2196.086	3	YSQGNVSAVGVTPL
+
+>> 0 266 2_191114_FoodProteomics_DDA_BASL.5213.5213. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5079 experiment=2" (SQS 0.988)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.476	178.584	128.034	0.000	1390.665	2	SLEASLAEDSLK
+
+>> 0 267 3_191114_FoodProteomics_DDA_BASL.5213.5213. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5079 experiment=2" (SQS 0.991)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.828	158.370	0.000	0.000	1390.665	2	NTLQ+1ASLAETTLK
+
+>> 0 268 2_191114_FoodProteomics_DDA_BASL.5235.5235. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5100 experiment=2" (SQS 0.500)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.058	82.111	0.000	594.268	2195.055	3	AGFLQQ+1Q+1S+43TT+80ALQ+1T
+
+>> 0 269 3_191114_FoodProteomics_DDA_BASL.5235.5235. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5100 experiment=2" (SQS 0.547)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.757	95.204	0.000	568.283	2196.088	3	YSET+80FVVGVTYDGS+43
+
+>> 0 270 2_191114_FoodProteomics_DDA_BASL.5241.5241. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5105 experiment=2" (SQS 0.932)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.670	152.156	0.000	0.000	1166.547	2	SGFLEEDELK
+
+>> 0 271 3_191114_FoodProteomics_DDA_BASL.5241.5241. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5105 experiment=2" (SQS 0.967)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.993	154.541	0.000	0.000	1166.724	2	SGFLEEDELK
+
+>> 0 272 2_191114_FoodProteomics_DDA_BASL.5243.5243. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5106 experiment=2" (SQS 0.925)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.266	112.231	0.000	0.000	1079.616	2	GFLEEDELK
+
+>> 0 273 3_191114_FoodProteomics_DDA_BASL.5243.5243. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5106 experiment=2" (SQS 0.938)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.619	102.147	0.000	0.000	1079.616	2	GFLEEDELK
+
+>> 0 274 2_191114_FoodProteomics_DDA_BASL.5247.5247. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5109 experiment=2" (SQS 0.941)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.331	151.183	144.043	0.000	1180.558	2	FLQ+1Q+1EELK
+
+>> 0 275 3_191114_FoodProteomics_DDA_BASL.5247.5247. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5109 experiment=2" (SQS 0.936)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.083	143.873	144.043	0.000	1180.558	2	M+16LEEEELK
+
+>> 0 276 2_191114_FoodProteomics_DDA_BASL.5249.5249. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5110 experiment=2" (SQS 0.973)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.170	145.453	0.000	0.000	1060.448	2	TLLDLDNTR
+
+>> 0 277 3_191114_FoodProteomics_DDA_BASL.5249.5249. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5110 experiment=2" (SQS 0.962)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.596	97.015	0.000	259.139	1060.448	2	TLLDLN+1M
+
+>> 0 278 2_191114_FoodProteomics_DDA_BASL.5251.5251. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5111 experiment=2" (SQS 0.951)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.447	157.753	0.000	0.000	1166.544	2	SGFLEEDELK
+
+>> 0 279 3_191114_FoodProteomics_DDA_BASL.5251.5251. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5111 experiment=2" (SQS 0.968)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.433	146.425	0.000	0.000	1166.544	2	SGM+16LEEDELK
+
+>> 0 280 2_191114_FoodProteomics_DDA_BASL.5260.5260. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5119 experiment=2" (SQS 0.909)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.113	152.720	0.000	0.000	1161.550	2	VSVEDLESVGK
+
+>> 0 281 3_191114_FoodProteomics_DDA_BASL.5260.5260. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5119 experiment=2" (SQS 0.939)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.788	156.741	0.000	0.000	1161.550	2	VSVEDLESVGK
+
+>> 0 282 2_191114_FoodProteomics_DDA_BASL.5263.5263. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5121 experiment=2" (SQS 0.903)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.405	149.087	0.000	0.000	1060.731	2	TLLDLDNTR
+
+>> 0 283 3_191114_FoodProteomics_DDA_BASL.5263.5263. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5121 experiment=2" (SQS 0.930)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.829	135.924	0.000	0.000	1060.761	2	TLLDLDNTR
+
+>> 0 284 2_191114_FoodProteomics_DDA_BASL.5287.5287. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5144 experiment=2" (SQS 0.915)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.131	113.093	0.000	276.166	1060.349	2	TLLDLN+1N
+
+>> 0 285 3_191114_FoodProteomics_DDA_BASL.5287.5287. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5144 experiment=2" (SQS 0.850)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.585	117.878	0.000	0.000	1060.555	2	TLLDLDNTR
+
+>> 0 286 2_191114_FoodProteomics_DDA_BASL.5396.5396. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5252 experiment=2" (SQS 0.850)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.367	114.876	0.000	0.000	897.399	2	MTLDDFR
+
+>> 0 287 3_191114_FoodProteomics_DDA_BASL.5396.5396. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5252 experiment=2" (SQS 0.846)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.321	104.035	0.000	0.000	897.399	2	MTLDDFR
+
+>> 0 288 2_191114_FoodProteomics_DDA_BASL.5412.5412. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5267 experiment=2" (SQS 0.869)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.959	118.486	0.000	0.000	868.620	2	PVTVSLPR
+
+>> 0 289 3_191114_FoodProteomics_DDA_BASL.5412.5412. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5267 experiment=2" (SQS 0.857)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.037	119.941	0.000	0.000	868.516	2	PVTVSLPR
+
+>> 0 290 2_191114_FoodProteomics_DDA_BASL.5415.5415. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5269 experiment=2" (SQS 0.952)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.028	121.632	0.000	0.000	897.404	2	MTLDDFR
+
+>> 0 291 3_191114_FoodProteomics_DDA_BASL.5415.5415. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5269 experiment=2" (SQS 0.900)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.217	116.661	0.000	0.000	897.404	2	MTLDDFR
+
+>> 0 292 2_191114_FoodProteomics_DDA_BASL.5419.5419. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5272 experiment=2" (SQS 0.901)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.924	117.855	0.000	0.000	1109.475	2	SVEAWFGADK
+
+>> 0 293 3_191114_FoodProteomics_DDA_BASL.5419.5419. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5272 experiment=2" (SQS 0.765)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.413	117.644	0.000	0.000	1109.475	2	SVEAWFY+80K
+
+>> 0 294 2_191114_FoodProteomics_DDA_BASL.5425.5425. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5277 experiment=2" (SQS 0.847)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.030	125.300	0.000	0.000	868.308	2	PVTVSLPR
+
+>> 0 295 3_191114_FoodProteomics_DDA_BASL.5425.5425. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5277 experiment=2" (SQS 0.899)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.104	106.020	97.069	0.000	868.618	2	VTVSLPR
+
+>> 0 296 2_191114_FoodProteomics_DDA_BASL.5430.5430. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5281 experiment=2" (SQS 0.952)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	11.488	116.216	0.000	0.000	897.403	2	MTLDDFR
+
+>> 0 297 3_191114_FoodProteomics_DDA_BASL.5430.5430. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5281 experiment=2" (SQS 0.915)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.108	114.997	0.000	0.000	897.197	2	MTLDDFR
+
+>> 0 298 2_191114_FoodProteomics_DDA_BASL.5444.5444. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5294 experiment=2" (SQS 0.656)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.842	120.986	0.000	0.000	868.512	2	PVTVSLPR
+
+>> 0 299 3_191114_FoodProteomics_DDA_BASL.5444.5444. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5294 experiment=2" (SQS 0.729)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.508	121.881	0.000	0.000	868.512	2	PVTVSLPR
+
+>> 0 300 2_191114_FoodProteomics_DDA_BASL.5455.5455. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5304 experiment=2" (SQS 0.827)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-5.043	135.080	0.000	0.000	1340.776	2	AS+43LEAGVGDAT+80AR
+
+>> 0 301 3_191114_FoodProteomics_DDA_BASL.5455.5455. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5304 experiment=2" (SQS 0.919)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.415	98.582	0.000	0.000	1338.735	2	AELQADLNGAT+80R
+
+>> 0 302 2_191114_FoodProteomics_DDA_BASL.5469.5469. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5317 experiment=2" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.100	136.215	184.105	0.000	1367.678	2	NELNQM+16YQK
+
+>> 0 303 3_191114_FoodProteomics_DDA_BASL.5469.5469. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5317 experiment=2" (SQS 0.984)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.926	124.705	184.179	0.000	1367.782	2	NELNQM+16YQK
+
+>> 0 304 2_191114_FoodProteomics_DDA_BASL.5473.5473. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5320 experiment=2" (SQS 0.972)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-4.560	96.596	0.000	0.000	1338.744	2	TVLQNLGQ+1T+80QR
+
+>> 0 305 3_191114_FoodProteomics_DDA_BASL.5473.5473. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5320 experiment=2" (SQS 0.980)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.170	99.151	0.000	0.000	1341.680	2	TDVQ+1ADLNQT+80R
+
+>> 0 306 2_191114_FoodProteomics_DDA_BASL.5476.5476. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5322 experiment=2" (SQS 0.969)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.723	132.484	0.000	0.000	1031.383	2	LVDELTLTK
+
+>> 0 307 3_191114_FoodProteomics_DDA_BASL.5476.5476. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5322 experiment=2" (SQS 0.946)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.571	139.612	0.000	0.000	1031.589	2	VLDELTLTK
+
+>> 0 308 2_191114_FoodProteomics_DDA_BASL.5489.5489. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5334 experiment=2" (SQS 0.750)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.422	102.813	97.073	0.000	868.516	2	VTVSLPR
+
+>> 0 309 3_191114_FoodProteomics_DDA_BASL.5489.5489. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5334 experiment=2" (SQS 0.788)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.179	116.859	0.000	0.000	868.516	2	PVTVSLPR
+
+>> 0 310 2_191114_FoodProteomics_DDA_BASL.5495.5495. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5339 experiment=2" (SQS 0.943)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.177	142.313	0.000	0.000	1031.694	2	VLDELTLTK
+
+>> 0 311 3_191114_FoodProteomics_DDA_BASL.5495.5495. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5339 experiment=2" (SQS 0.967)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.432	146.088	0.000	0.000	1031.384	2	VLDELTLTK
+
+>> 0 312 2_191114_FoodProteomics_DDA_BASL.5507.5507. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5350 experiment=2" (SQS 0.874)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.501	119.156	0.000	0.000	868.516	2	PVTVSLPR
+
+>> 0 313 3_191114_FoodProteomics_DDA_BASL.5507.5507. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5350 experiment=2" (SQS 0.830)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.952	119.824	0.000	0.000	868.309	2	PVTVSLPR
+
+>> 0 314 2_191114_FoodProteomics_DDA_BASL.5514.5514. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5356 experiment=2" (SQS 0.962)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.110	146.955	0.000	0.000	1031.589	2	VLDELTLTK
+
+>> 0 315 3_191114_FoodProteomics_DDA_BASL.5514.5514. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5356 experiment=2" (SQS 0.933)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.912	134.544	0.000	0.000	1031.383	2	LVDELTLTK
+
+>> 0 316 2_191114_FoodProteomics_DDA_BASL.5640.5640. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5481 experiment=2" (SQS 0.996)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.066	178.495	0.000	0.000	1165.688	2	PGTPLQVGVGLK
+
+>> 0 317 3_191114_FoodProteomics_DDA_BASL.5640.5640. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5481 experiment=2" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.736	178.069	0.000	0.000	1165.688	2	PGTPLQVGVGLK
+
+>> 0 318 2_191114_FoodProteomics_DDA_BASL.5647.5647. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5487 experiment=2" (SQS 0.979)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.315	194.764	0.000	0.000	1357.672	2	NLDLQ+1DALQQAK
+
+>> 0 319 3_191114_FoodProteomics_DDA_BASL.5647.5647. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5487 experiment=2" (SQS 0.987)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.149	199.236	0.000	0.000	1357.776	2	NLDLQ+1DALQQAK
+
+>> 0 320 2_191114_FoodProteomics_DDA_BASL.5658.5658. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5497 experiment=2" (SQS 0.990)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.195	182.621	0.000	0.000	1165.685	2	PGTPLQVGVGLK
+
+>> 0 321 3_191114_FoodProteomics_DDA_BASL.5658.5658. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5497 experiment=2" (SQS 0.986)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.156	176.562	0.000	0.000	1165.685	2	PGTPLQVGVGLK
+
+>> 0 322 2_191114_FoodProteomics_DDA_BASL.5665.5665. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5503 experiment=2" (SQS 0.964)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.417	195.948	0.000	0.000	1357.678	2	NLDLQ+1DALQQAK
+
+>> 0 323 3_191114_FoodProteomics_DDA_BASL.5665.5665. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5503 experiment=2" (SQS 0.936)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.834	196.362	0.000	0.000	1357.781	2	NLDLQ+1DALQQAK
+
+>> 0 324 2_191114_FoodProteomics_DDA_BASL.5667.5667. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5504 experiment=2" (SQS 0.037)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.170	38.831	0.000	0.000	1120.782	1	SYDQ+1FGQM+16K
+
+>> 0 325 3_191114_FoodProteomics_DDA_BASL.5667.5667. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5504 experiment=2" (SQS 0.024)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.667	97.879	846.431	0.000	2236.147	2	VGLSYN+1GHTK+43NR
+
+>> 0 326 2_191114_FoodProteomics_DDA_BASL.5670.5670. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5506 experiment=2" (SQS 0.860)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.617	129.148	0.000	0.000	1029.583	2	LVDELTLAR
+
+>> 0 327 3_191114_FoodProteomics_DDA_BASL.5670.5670. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5506 experiment=2" (SQS 0.761)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	8.279	127.866	0.000	0.000	1029.583	2	VLDELTLAR
+
+>> 0 328 2_191114_FoodProteomics_DDA_BASL.5790.5790. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5625 experiment=2" (SQS 0.164)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.095	155.867	313.197	0.000	1706.813	2	GGM+16SSNFSNSFSR
+
+>> 0 329 3_191114_FoodProteomics_DDA_BASL.5790.5790. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5625 experiment=2" (SQS 0.918)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.218	191.061	314.023	0.000	1707.640	2	GGFSSGGM+16SGGSFSR
+
+>> 0 330 2_191114_FoodProteomics_DDA_BASL.5807.5807. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5641 experiment=2" (SQS 0.946)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.102	135.114	0.000	0.000	1100.650	2	ESLLLERLK
+
+>> 0 331 3_191114_FoodProteomics_DDA_BASL.5807.5807. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5641 experiment=2" (SQS 0.933)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.613	124.903	0.000	0.000	1100.444	2	ESLLRLELK
+
+>> 0 332 2_191114_FoodProteomics_DDA_BASL.5830.5830. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5663 experiment=2" (SQS 0.905)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.760	136.802	0.000	0.000	1100.451	2	MQELLLLLK
+
+>> 0 333 3_191114_FoodProteomics_DDA_BASL.5830.5830. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5663 experiment=2" (SQS 0.957)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.460	122.400	0.000	0.000	1100.658	2	ESLLRQ+1LLK
+
+>> 0 334 2_191114_FoodProteomics_DDA_BASL.5844.5844. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5676 experiment=2" (SQS 0.844)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.129	99.879	0.000	272.184	885.607	2	AAATVSL
+
+>> 0 335 3_191114_FoodProteomics_DDA_BASL.5844.5844. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5676 experiment=2" (SQS 0.756)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	9.100	100.430	0.000	272.184	885.607	2	AAATVSL
+
+>> 0 336 2_191114_FoodProteomics_DDA_BASL.5846.5846. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5677 experiment=2" (SQS 0.250)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.978	27.032	0.000	0.000	937.309	2	AALY+80YTR
+
+>> 0 337 3_191114_FoodProteomics_DDA_BASL.5846.5846. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5677 experiment=2" (SQS 0.229)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.428	22.101	0.000	0.000	937.309	2	TFLHYTR
+
+>> 0 338 2_191114_FoodProteomics_DDA_BASL.5847.5847. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5677 experiment=3" (SQS 0.016)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.746	93.981	0.000	339.205	1659.947	2	PVPQLENTTLVQ+1
+
+>> 0 339 3_191114_FoodProteomics_DDA_BASL.5847.5847. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5677 experiment=3" (SQS 0.666)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.347	104.095	0.000	339.205	1660.670	2	APGVLELVTEALE
+
+>> 0 340 2_191114_FoodProteomics_DDA_BASL.5849.5849. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5678 experiment=2" (SQS 0.842)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.751	158.913	0.000	0.000	1100.655	2	Q+1S+43Q+1PLLQ+1LQ
+
+>> 0 341 3_191114_FoodProteomics_DDA_BASL.5849.5849. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5678 experiment=2" (SQS 0.893)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.509	132.861	0.000	0.000	1100.655	2	MKQ+1LLLLLK
+
+>> 0 342 2_191114_FoodProteomics_DDA_BASL.5851.5851. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5679 experiment=2" (SQS 0.137)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.171	41.114	114.078	0.000	929.214	2	NS+43N+1LPAR
+
+>> 0 343 3_191114_FoodProteomics_DDA_BASL.5851.5851. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5679 experiment=2" (SQS 0.107)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.205	25.997	71.072	0.000	929.420	2	AFALS+80NR
+
+>> 0 344 2_191114_FoodProteomics_DDA_BASL.5853.5853. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5680 experiment=2" (SQS 0.673)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	7.026	84.579	142.073	0.000	885.401	2	ATVSLPR
+
+>> 0 345 3_191114_FoodProteomics_DDA_BASL.5853.5853. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5680 experiment=2" (SQS 0.635)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.789	87.083	142.073	0.000	885.607	2	ATVSLPR
+
+>> 0 346 2_191114_FoodProteomics_DDA_BASL.5855.5855. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5681 experiment=2" (SQS 0.284)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.117	58.834	0.000	0.000	836.633	1	S+43AESSGAGK
+
+>> 0 347 3_191114_FoodProteomics_DDA_BASL.5855.5855. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5681 experiment=2" (SQS 0.827)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-4.751	167.259	0.000	0.000	1669.838	2	NASEGGQQ+1N+1FQ+1SSGAGK
+
+>> 0 348 2_191114_FoodProteomics_DDA_BASL.5857.5857. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5682 experiment=2" (SQS 0.818)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.250	145.303	0.000	0.000	1100.759	2	Q+1S+43EPLQ+1LLQ
+
+>> 0 349 3_191114_FoodProteomics_DDA_BASL.5857.5857. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5682 experiment=2" (SQS 0.900)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.102	136.397	0.000	0.000	1100.449	2	MKELLLLLK
+
+>> 0 350 2_191114_FoodProteomics_DDA_BASL.5881.5881. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5705 experiment=2" (SQS 0.968)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.658	151.104	0.000	0.000	1100.761	2	SSLTLLLLLK
+
+>> 0 351 3_191114_FoodProteomics_DDA_BASL.5881.5881. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5705 experiment=2" (SQS 0.984)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.729	123.782	0.000	0.000	1100.658	2	MKELLLLLK
+
+>> 0 352 2_191114_FoodProteomics_DDA_BASL.5901.5901. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5724 experiment=2" (SQS 0.933)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.661	200.057	0.000	0.000	1371.692	2	NLDLQ+1Q+1ALQQAK
+
+>> 0 353 3_191114_FoodProteomics_DDA_BASL.5901.5901. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5724 experiment=2" (SQS 0.973)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.605	200.349	0.000	0.000	1371.692	2	NLN+1LQ+1EALQQAK
+
+>> 0 354 2_191114_FoodProteomics_DDA_BASL.5903.5903. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5725 experiment=2" (SQS 0.970)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	6.834	139.235	0.000	0.000	1100.657	2	MQELLLLLK
+
+>> 0 355 3_191114_FoodProteomics_DDA_BASL.5903.5903. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5725 experiment=2" (SQS 0.952)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.072	138.065	0.000	0.000	1100.554	2	MQELLLLLK
+
+>> 0 356 2_191114_FoodProteomics_DDA_BASL.5927.5927. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5748 experiment=2" (SQS 0.914)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.922	165.371	174.190	0.000	1100.759	2	LTLLLLLK
+
+>> 0 357 3_191114_FoodProteomics_DDA_BASL.5927.5927. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5748 experiment=2" (SQS 0.963)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.893	142.667	0.000	0.000	1100.656	2	Q+1S+43EPLQ+1LLQ
+
+>> 0 358 2_191114_FoodProteomics_DDA_BASL.6092.6092. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5912 experiment=2" (SQS 0.666)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.910	122.585	182.131	0.000	1473.767	2	AEGNEKFLNAAK
+
+>> 0 359 3_191114_FoodProteomics_DDA_BASL.6092.6092. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5912 experiment=2" (SQS 0.786)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.481	101.439	0.000	0.000	1472.764	2	T+80NGQ+1LSQFLQQK
+
+>> 0 360 2_191114_FoodProteomics_DDA_BASL.6104.6104. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5923 experiment=2" (SQS 0.807)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.014	30.912	742.562	0.000	1468.861	2	ANLALPK
+
+>> 0 361 3_191114_FoodProteomics_DDA_BASL.6104.6104. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5923 experiment=2" (SQS 0.638)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.463	2.806	0.000	0.000	734.295	1	NSN+1Y+80R
+
+>> 0 362 2_191114_FoodProteomics_DDA_BASL.6106.6106. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5924 experiment=2" (SQS 0.712)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.571	85.478	0.000	409.219	1154.778	1	YLVN+1LAA
+
+>> 0 363 3_191114_FoodProteomics_DDA_BASL.6106.6106. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5924 experiment=2" (SQS 0.379)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.290	88.478	0.000	409.219	1154.778	1	YLVN+1LAA
+
+>> 0 364 2_191114_FoodProteomics_DDA_BASL.6108.6108. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5925 experiment=2" (SQS 0.296)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.923	128.400	182.135	0.000	1473.769	2	AEGNEQM+16LNAAK
+
+>> 0 365 3_191114_FoodProteomics_DDA_BASL.6108.6108. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5925 experiment=2" (SQS 0.453)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.072	136.200	962.522	0.000	2211.123	3	AGELSQM+16LNAAK
+
+>> 0 366 2_191114_FoodProteomics_DDA_BASL.6113.6113. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5929 experiment=2" (SQS 0.132)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.061	121.809	0.000	0.000	1474.568	2	S+43S+80GELSQEMNAAK
+
+>> 0 367 3_191114_FoodProteomics_DDA_BASL.6113.6113. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5929 experiment=2" (SQS 0.811)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.483	107.832	0.000	0.000	1472.635	2	T+80NGQ+1LSQM+16LNAAK
+
+>> 0 368 2_191114_FoodProteomics_DDA_BASL.6115.6115. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5930 experiment=2" (SQS 0.877)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.861	-10.113	0.000	0.000	732.332	1	TTSYGFG
+
+>> 0 369 3_191114_FoodProteomics_DDA_BASL.6115.6115. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5930 experiment=2" (SQS 0.932)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.789	-21.098	0.000	0.000	732.332	1	DSSYGFG
+
+>> 0 370 2_191114_FoodProteomics_DDA_BASL.6121.6121. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5935 experiment=2" (SQS 0.634)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.304	74.734	0.000	0.000	1151.746	1	CLSQFS+43PNR
+
+>> 0 371 3_191114_FoodProteomics_DDA_BASL.6121.6121. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5935 experiment=2" (SQS 0.397)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.086	77.490	0.000	0.000	1151.716	1	CLSQFS+43PNR
+
+>> 0 372 2_191114_FoodProteomics_DDA_BASL.6123.6123. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5936 experiment=2" (SQS 0.438)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.245	125.291	182.239	0.000	1473.871	2	NGELSKFLNAAK
+
+>> 0 373 3_191114_FoodProteomics_DDA_BASL.6123.6123. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5936 experiment=2" (SQS 0.754)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.362	123.326	893.529	0.000	2210.191	3	LLVLSQEMNAAK
+
+>> 0 374 2_191114_FoodProteomics_DDA_BASL.6124.6124. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5936 experiment=3" (SQS 0.994)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.199	115.339	265.432	0.000	1484.013	2	LGGGQ+1GAFLNAGR
+
+>> 0 375 3_191114_FoodProteomics_DDA_BASL.6124.6124. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5936 experiment=3" (SQS 0.829)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.227	102.967	248.292	0.000	1482.907	2	EGGGEKFLNKR
+
+>> 0 376 2_191114_FoodProteomics_DDA_BASL.6150.6150. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5961 experiment=2" (SQS 0.248)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.956	137.748	0.000	0.000	1473.562	2	ES+80GELSKM+16LNAAK
+
+>> 0 377 3_191114_FoodProteomics_DDA_BASL.6150.6150. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5961 experiment=2" (SQS 0.776)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.216	137.825	919.482	0.000	2211.122	3	NGELSQM+16LNAAK
+
+>> 0 378 2_191114_FoodProteomics_DDA_BASL.6151.6151. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5961 experiment=3" (SQS 0.990)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.517	133.679	0.000	0.000	1482.723	2	Q-17HQ+1GGGEQM+16LNQR
+
+>> 0 379 3_191114_FoodProteomics_DDA_BASL.6151.6151. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5961 experiment=3" (SQS 0.974)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.948	104.864	248.293	0.000	1482.904	2	EGGGEKFLNKR
+
+>> 0 380 2_191114_FoodProteomics_DDA_BASL.6164.6164. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5973 experiment=2" (SQS 0.601)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.030	105.766	0.000	0.000	1492.867	2	AS+43SLGQSKFLS+43GPK
+
+>> 0 381 3_191114_FoodProteomics_DDA_BASL.6164.6164. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5973 experiment=2" (SQS 0.472)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.083	92.264	0.000	0.000	1491.833	2	ASLEGQSKM+16LS+43GPK
+
+>> 0 382 2_191114_FoodProteomics_DDA_BASL.6170.6170. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5978 experiment=2" (SQS 0.434)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.762	109.714	354.026	0.000	1474.593	2	ELSAGM+16LNAAK
+
+>> 0 383 3_191114_FoodProteomics_DDA_BASL.6170.6170. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=5978 experiment=2" (SQS 0.605)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.958	85.117	299.160	0.000	1476.762	2	GELSQFLQQK
+
+>> 0 384 2_191114_FoodProteomics_DDA_BASL.6196.6196. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6003 experiment=2" (SQS 0.197)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.452	108.166	0.000	0.000	1474.696	2	S+43S+80GQ+1LSAGFNLNR
+
+>> 0 385 3_191114_FoodProteomics_DDA_BASL.6196.6196. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6003 experiment=2" (SQS 0.738)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.347	84.437	0.000	0.000	1472.940	2	T+80AEGNEAGFLNAAK
+
+>> 0 386 2_191114_FoodProteomics_DDA_BASL.6206.6206. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6012 experiment=2" (SQS 0.976)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.043	152.852	0.000	0.000	1475.826	2	WQ+1LLQQVDTSQ+1K
+
+>> 0 387 3_191114_FoodProteomics_DDA_BASL.6206.6206. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6012 experiment=2" (SQS 0.966)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.423	92.472	0.000	0.000	1475.723	2	N+1AQ+1LLQQVDTQ+1SK
+
+>> 0 388 2_191114_FoodProteomics_DDA_BASL.6208.6208. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6013 experiment=2" (SQS 0.965)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.283	146.897	0.000	0.000	1476.838	2	SVELLEKVS+80LS+80L
+
+>> 0 389 3_191114_FoodProteomics_DDA_BASL.6208.6208. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6013 experiment=2" (SQS 0.938)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.609	101.226	0.000	317.110	1476.735	2	WQ+1LLQ+1QVDF
+
+>> 0 390 2_191114_FoodProteomics_DDA_BASL.6212.6212. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6016 experiment=2" (SQS 0.600)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.595	108.838	0.000	0.000	1474.744	2	GKELLTYDDS+43YK
+
+>> 0 391 3_191114_FoodProteomics_DDA_BASL.6212.6212. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6016 experiment=2" (SQS 0.723)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.223	94.933	0.000	299.219	1475.851	2	WQ+1LLQQVS+80L
+
+>> 0 392 2_191114_FoodProteomics_DDA_BASL.6226.6226. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6029 experiment=2" (SQS 0.975)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.079	151.952	0.000	0.000	1476.736	2	WELLEQVDTDTK
+
+>> 0 393 3_191114_FoodProteomics_DDA_BASL.6226.6226. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6029 experiment=2" (SQS 0.963)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.167	138.046	0.000	130.070	1476.736	2	WELLEQVDFS+43G
+
+>> 0 394 2_191114_FoodProteomics_DDA_BASL.6273.6273. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6075 experiment=2" (SQS 0.965)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.941	117.493	0.000	0.000	1475.714	2	AALEVNSKFLNAAK
+
+>> 0 395 3_191114_FoodProteomics_DDA_BASL.6273.6273. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6075 experiment=2" (SQS 0.866)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.656	79.468	0.000	0.000	1474.500	2	T+80ATENSQM+16LNAAK
+
+>> 0 396 2_191114_FoodProteomics_DDA_BASL.6332.6332. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6133 experiment=2" (SQS 0.912)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.378	102.985	254.029	0.000	1475.612	2	EGDEAGFLNAAK
+
+>> 0 397 3_191114_FoodProteomics_DDA_BASL.6332.6332. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6133 experiment=2" (SQS 0.885)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.842	79.406	0.000	0.000	1475.612	2	S+80SETLSKFLNAAK
+
+>> 0 398 2_191114_FoodProteomics_DDA_BASL.6334.6334. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6134 experiment=2" (SQS 0.351)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.133	131.496	0.000	0.000	1474.018	2	T+80AETLSKM+16LNAAK
+
+>> 0 399 3_191114_FoodProteomics_DDA_BASL.6334.6334. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6134 experiment=2" (SQS 0.850)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.250	151.322	876.525	0.000	2211.186	3	LQ+1TLSQFLNAAK
+
+>> 0 400 2_191114_FoodProteomics_DDA_BASL.6355.6355. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6154 experiment=2" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.473	186.828	87.030	0.000	1383.671	2	LNNQM+16ASM+16LN+1K
+
+>> 0 401 3_191114_FoodProteomics_DDA_BASL.6355.6355. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6154 experiment=2" (SQS 0.983)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.495	187.809	0.000	0.000	1383.671	2	TVNNQM+16ASM+16LN+1K
+
+>> 0 402 2_191114_FoodProteomics_DDA_BASL.6357.6357. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6155 experiment=2" (SQS 0.118)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.930	123.452	0.000	0.000	1473.810	2	T+80AETLSKFLNNR
+
+>> 0 403 3_191114_FoodProteomics_DDA_BASL.6357.6357. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6155 experiment=2" (SQS 0.875)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.308	111.667	185.227	0.000	1477.838	2	AQ+1TLSQFLQQK
+
+>> 0 404 2_191114_FoodProteomics_DDA_BASL.6373.6373. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6170 experiment=2" (SQS 0.997)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.997	189.700	87.003	0.000	1383.677	2	LNNQFASM+16LDK
+
+>> 0 405 3_191114_FoodProteomics_DDA_BASL.6373.6373. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6170 experiment=2" (SQS 0.992)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.197	190.279	0.000	0.000	1383.677	2	TVNNQM+16ASFLDK
+
+>> 0 406 2_191114_FoodProteomics_DDA_BASL.6415.6415. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6211 experiment=2" (SQS 0.290)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.703	75.578	0.000	0.000	1001.488	1	FEQT+80LQR
+
+>> 0 407 3_191114_FoodProteomics_DDA_BASL.6415.6415. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6211 experiment=2" (SQS 0.213)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.603	71.300	275.100	0.000	1000.484	1	GALGLS+80K
+
+>> 0 408 2_191114_FoodProteomics_DDA_BASL.6447.6447. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6242 experiment=2" (SQS 0.894)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.432	158.092	0.000	0.000	1491.628	2	ASLEGS+43VDLCQAAK
+
+>> 0 409 3_191114_FoodProteomics_DDA_BASL.6447.6447. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6242 experiment=2" (SQS 0.822)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.034	132.376	0.000	0.000	1491.628	2	TGLEGS+43VDLNSSAAK
+
+>> 0 410 2_191114_FoodProteomics_DDA_BASL.6468.6468. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6262 experiment=2" (SQS 0.794)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.269	126.798	0.000	0.000	944.558	2	DTLLLELK
+
+>> 0 411 3_191114_FoodProteomics_DDA_BASL.6468.6468. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6262 experiment=2" (SQS 0.790)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.855	127.213	0.000	0.000	944.558	2	DTLLLELK
+
+>> 0 412 2_191114_FoodProteomics_DDA_BASL.6471.6471. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6264 experiment=2" (SQS 0.896)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.690	138.152	0.000	0.000	1491.830	2	SALEGS+43VDLNSSAAK
+
+>> 0 413 3_191114_FoodProteomics_DDA_BASL.6471.6471. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6264 experiment=2" (SQS 0.448)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.422	158.367	920.453	0.000	2237.130	3	LGELLQM+16LNAAK
+
+>> 0 414 2_191114_FoodProteomics_DDA_BASL.6486.6486. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6278 experiment=2" (SQS 0.857)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	12.957	121.377	0.000	0.000	944.559	2	SELLLELK
+
+>> 0 415 3_191114_FoodProteomics_DDA_BASL.6486.6486. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6278 experiment=2" (SQS 0.868)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	10.613	120.153	0.000	0.000	944.352	2	DTLLLELK
+
+>> 0 416 2_191114_FoodProteomics_DDA_BASL.6488.6488. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6279 experiment=2" (SQS 0.951)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.234	123.920	174.180	0.000	1143.765	2	LTLLLRLK
+
+>> 0 417 3_191114_FoodProteomics_DDA_BASL.6488.6488. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6279 experiment=2" (SQS 0.960)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.607	105.588	0.000	0.000	1143.765	2	S+43Q+1ELLLRLK
+
+>> 0 418 2_191114_FoodProteomics_DDA_BASL.6490.6490. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6280 experiment=2" (SQS 0.570)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.210	115.290	0.000	0.000	1532.694	2	LLDTLDTRDNN+1NK
+
+>> 0 419 3_191114_FoodProteomics_DDA_BASL.6490.6490. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6280 experiment=2" (SQS 0.564)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.351	97.141	993.501	0.000	2298.064	3	LTLDNDLM+16LLK
+
+>> 0 420 2_191114_FoodProteomics_DDA_BASL.6506.6506. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6295 experiment=2" (SQS 0.894)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.381	119.323	259.181	0.000	1143.663	2	ELLLRLK
+
+>> 0 421 3_191114_FoodProteomics_DDA_BASL.6506.6506. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6295 experiment=2" (SQS 0.882)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.618	104.524	0.000	0.000	1143.663	2	MQELLLRLK
+
+>> 0 422 2_191114_FoodProteomics_DDA_BASL.6509.6509. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6297 experiment=2" (SQS 0.618)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.856	121.304	0.000	0.000	1532.870	2	LPLTNGNFAM+16S+43T+80K
+
+>> 0 423 3_191114_FoodProteomics_DDA_BASL.6509.6509. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6297 experiment=2" (SQS 0.558)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.125	100.634	936.476	0.000	2297.960	3	GLTLN+1NDLM+16LLK
+
+>> 0 424 2_191114_FoodProteomics_DDA_BASL.6525.6525. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6312 experiment=2" (SQS 0.949)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.147	116.397	287.173	0.000	1143.661	2	TLLLRLK
+
+>> 0 425 3_191114_FoodProteomics_DDA_BASL.6525.6525. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6312 experiment=2" (SQS 0.939)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.291	105.962	287.173	0.000	1143.661	2	TLLLRLK
+
+>> 0 426 2_191114_FoodProteomics_DDA_BASL.6528.6528. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6314 experiment=2" (SQS 0.800)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.255	121.875	0.000	0.000	1533.105	2	LPLTMN+1NDLFLLK
+
+>> 0 427 3_191114_FoodProteomics_DDA_BASL.6528.6528. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6314 experiment=2" (SQS 0.558)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.139	104.772	993.497	0.000	2297.958	3	LTLN+1NDLM+16LLK
+
+>> 0 428 2_191114_FoodProteomics_DDA_BASL.6594.6594. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6379 experiment=2" (SQS 0.261)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.638	97.438	881.421	0.000	2301.168	3	LLTDDNDLM+16LLK
+
+>> 0 429 3_191114_FoodProteomics_DDA_BASL.6594.6594. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6379 experiment=2" (SQS 0.352)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.591	74.324	0.000	0.000	1534.531	2	LVETDN+1NDLFLLK
+
+>> 0 430 2_191114_FoodProteomics_DDA_BASL.6598.6598. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6382 experiment=2" (SQS 0.870)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.364	94.376	0.000	0.000	1532.833	2	LGGNTLDNDLFLLK
+
+>> 0 431 3_191114_FoodProteomics_DDA_BASL.6598.6598. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6382 experiment=2" (SQS 0.947)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.485	84.153	0.000	0.000	1533.762	2	LN+1NTLN+1NDLFLLK
+
+>> 0 432 2_191114_FoodProteomics_DDA_BASL.6625.6625. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6408 experiment=2" (SQS 0.928)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.249	97.574	0.000	0.000	1533.764	2	LPLTNGW+4DLFLLK
+
+>> 0 433 3_191114_FoodProteomics_DDA_BASL.6625.6625. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6408 experiment=2" (SQS 0.787)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.345	86.407	0.000	0.000	1533.764	2	VY+80TLDTQLFLLK
+
+>> 0 434 2_191114_FoodProteomics_DDA_BASL.6650.6650. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6432 experiment=2" (SQS 0.204)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.178	87.806	0.000	0.000	1534.708	2	NPLTNGDSS+80LQT+80K
+
+>> 0 435 3_191114_FoodProteomics_DDA_BASL.6650.6650. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6432 experiment=2" (SQS 0.116)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.059	97.627	937.472	0.000	2300.252	3	GNTLDNDLM+16LLK
+
+>> 0 436 2_191114_FoodProteomics_DDA_BASL.6653.6653. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6434 experiment=2" (SQS 0.890)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.041	87.209	0.000	0.000	1533.767	2	LPLTNGW+4DLFLLK
+
+>> 0 437 3_191114_FoodProteomics_DDA_BASL.6653.6653. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6434 experiment=2" (SQS 0.896)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.629	55.816	0.000	0.000	1533.767	2	LPLTNGW+4DLFLLK
+
+>> 0 438 2_191114_FoodProteomics_DDA_BASL.6794.6794. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6574 experiment=2" (SQS 0.446)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.167	127.790	0.000	0.000	1522.852	2	TVLTNGNFATMLLK
+
+>> 0 439 3_191114_FoodProteomics_DDA_BASL.6794.6794. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6574 experiment=2" (SQS 0.438)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.329	89.997	0.000	0.000	1520.889	2	VVLTFDNDLMLLK
+
+>> 0 440 2_191114_FoodProteomics_DDA_BASL.6802.6802. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6581 experiment=2" (SQS 0.383)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.531	36.483	248.107	0.000	1126.547	1	SQFLN+1LR
+
+>> 0 441 3_191114_FoodProteomics_DDA_BASL.6802.6802. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6581 experiment=2" (SQS 0.258)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.322	36.579	0.000	0.000	1128.510	1	HLVLDNS+43CK
+
+>> 0 442 2_191114_FoodProteomics_DDA_BASL.6804.6804. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6582 experiment=2" (SQS 0.678)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.155	107.298	0.000	0.000	1532.686	2	LPLTMN+1NDLFLLK
+
+>> 0 443 3_191114_FoodProteomics_DDA_BASL.6804.6804. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6582 experiment=2" (SQS 0.638)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.445	97.308	0.000	0.000	1531.472	2	LLNTLN+1NDLM+16LLK
+
+>> 0 444 2_191114_FoodProteomics_DDA_BASL.6810.6810. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6587 experiment=2" (SQS 0.196)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.430	128.870	0.000	0.000	1522.645	2	SLLTFNDDLMLLK
+
+>> 0 445 3_191114_FoodProteomics_DDA_BASL.6810.6810. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6587 experiment=2" (SQS 0.510)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.903	99.938	959.257	0.000	2281.958	3	LTFDNDLMLLK
+
+>> 0 446 2_191114_FoodProteomics_DDA_BASL.6815.6815. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6591 experiment=2" (SQS 0.371)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.219	43.103	136.985	0.000	1128.510	1	LSQFLGGNR
+
+>> 0 447 3_191114_FoodProteomics_DDA_BASL.6815.6815. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6591 experiment=2" (SQS 0.279)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.133	42.887	335.063	0.000	1126.503	1	TNLTGS+43R
+
+>> 0 448 2_191114_FoodProteomics_DDA_BASL.6817.6817. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6592 experiment=2" (SQS 0.714)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.479	22.699	0.000	0.000	845.532	2	TQLY+80LK
+
+>> 0 449 3_191114_FoodProteomics_DDA_BASL.6817.6817. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6592 experiment=2" (SQS 0.534)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.059	26.703	396.226	0.000	1266.169	3	S+80LS+43NGLR
+
+>> 0 450 2_191114_FoodProteomics_DDA_BASL.6823.6823. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6597 experiment=2" (SQS 0.653)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.004	128.054	0.000	0.000	1522.857	2	SLLTM+16NDDLMLLK
+
+>> 0 451 3_191114_FoodProteomics_DDA_BASL.6823.6823. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6597 experiment=2" (SQS 0.717)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.309	87.826	0.000	0.000	1520.894	2	VVLTM+16N+1NDLMLLK
+
+>> 0 452 2_191114_FoodProteomics_DDA_BASL.6849.6849. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6622 experiment=2" (SQS 0.756)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.110	121.888	0.000	0.000	1522.852	2	EALTM+16DNDLMLLK
+
+>> 0 453 3_191114_FoodProteomics_DDA_BASL.6849.6849. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6622 experiment=2" (SQS 0.583)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.359	115.860	881.384	0.000	2283.198	3	LLTLDNDLMLLK
+
+>> 0 454 2_191114_FoodProteomics_DDA_BASL.6869.6869. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6641 experiment=2" (SQS 0.964)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.731	88.408	0.000	0.000	1522.940	2	AQLTLLAQLLS+43T+80K
+
+>> 0 455 3_191114_FoodProteomics_DDA_BASL.6869.6869. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6641 experiment=2" (SQS 0.755)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.242	82.404	0.000	0.000	1521.933	2	TPLTLLT+80LDTLLK
+
+>> 0 456 2_191114_FoodProteomics_DDA_BASL.6877.6877. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6648 experiment=2" (SQS 0.109)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.365	101.431	0.000	0.000	1521.785	2	VVLTNGDFATMLLK
+
+>> 0 457 3_191114_FoodProteomics_DDA_BASL.6877.6877. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6648 experiment=2" (SQS 0.429)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.104	119.048	701.311	0.000	2284.187	3	LT+80LTLYT+80LMLLK
+
+>> 0 458 2_191114_FoodProteomics_DDA_BASL.6901.6901. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6671 experiment=2" (SQS 0.272)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.989	102.715	0.000	0.000	1522.892	2	DELGFN+1NSGFLT+80K
+
+>> 0 459 3_191114_FoodProteomics_DDA_BASL.6901.6901. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6671 experiment=2" (SQS 0.319)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.574	102.362	881.407	0.000	2282.948	3	LLTLDNDLMLLK
+
+>> 0 460 2_191114_FoodProteomics_DDA_BASL.6924.6924. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6693 experiment=2" (SQS 0.337)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.055	103.652	0.000	0.000	1522.890	2	SY+80TFELNFLT+80K
+
+>> 0 461 3_191114_FoodProteomics_DDA_BASL.6924.6924. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6693 experiment=2" (SQS 0.349)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	5.027	127.648	881.400	0.000	2284.184	3	NLTLDNDLMLLK
+
+>> 0 462 2_191114_FoodProteomics_DDA_BASL.6926.6926. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6694 experiment=2" (SQS 0.785)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.160	54.982	87.137	0.000	939.595	1	VYSQPMK
+
+>> 0 463 3_191114_FoodProteomics_DDA_BASL.6926.6926. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6694 experiment=2" (SQS 0.880)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.349	185.788	539.090	0.000	1884.720	2	SDM+16SGVYSKLSR
+
+>> 0 464 2_191114_FoodProteomics_DDA_BASL.6953.6953. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6720 experiment=2" (SQS 0.310)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.829	55.293	0.000	0.000	943.178	1	W+4YSQGQK+43
+
+>> 0 465 3_191114_FoodProteomics_DDA_BASL.6953.6953. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6720 experiment=2" (SQS 0.886)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.149	187.961	539.270	0.000	1884.922	2	SDM+16SGVYSKLSR
+
+>> 0 466 2_191114_FoodProteomics_DDA_BASL.6970.6970. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6736 experiment=2" (SQS 0.496)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.165	23.078	0.000	0.000	889.351	2	S+80SAQFNR
+
+>> 0 467 3_191114_FoodProteomics_DDA_BASL.6970.6970. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6736 experiment=2" (SQS 0.566)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.744	21.683	0.000	0.000	889.351	2	S+80SAQFNR
+
+>> 0 468 2_191114_FoodProteomics_DDA_BASL.6973.6973. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6738 experiment=2" (SQS 0.185)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.904	21.724	0.000	0.000	942.146	1	SLN+1SW+4CK+43
+
+>> 0 469 3_191114_FoodProteomics_DDA_BASL.6973.6973. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6738 experiment=2" (SQS 0.914)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.882	183.904	539.173	0.000	1884.819	2	SDM+16SGVYSKLSR
+
+>> 0 470 2_191114_FoodProteomics_DDA_BASL.7141.7141. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6905 experiment=2" (SQS 0.244)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.157	34.317	0.000	0.000	933.585	2	MS+80AN+1HHR
+
+>> 0 471 3_191114_FoodProteomics_DDA_BASL.7141.7141. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6905 experiment=2" (SQS 0.305)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.610	14.243	0.000	0.000	468.556	1	PPVR
+
+>> 0 472 2_191114_FoodProteomics_DDA_BASL.7165.7165. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6928 experiment=2" (SQS 0.818)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.832	31.656	0.000	0.000	933.584	2	SS+80AS+80S+80VR
+
+>> 0 473 3_191114_FoodProteomics_DDA_BASL.7165.7165. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6928 experiment=2" (SQS 0.651)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.485	16.072	0.000	0.000	933.584	2	SS+80AS+80LT+80K
+
+>> 0 474 2_191114_FoodProteomics_DDA_BASL.7211.7211. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6973 experiment=2" (SQS 0.354)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.754	30.930	0.000	0.000	947.567	2	Q-17LDGHGPLK
+
+>> 0 475 3_191114_FoodProteomics_DDA_BASL.7211.7211. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=6973 experiment=2" (SQS 0.205)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.615	14.686	0.000	0.000	943.771	2	PS+80AS+80LT+80K
+
+>> 0 476 2_191114_FoodProteomics_DDA_BASL.7255.7255. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7016 experiment=2" (SQS 0.894)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.597	27.446	344.927	0.000	1255.536	2	FVNYSS+80N
+
+>> 0 477 3_191114_FoodProteomics_DDA_BASL.7255.7255. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7016 experiment=2" (SQS 0.430)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.184	13.288	386.136	0.000	1255.640	2	QLS+43S+80GVR
+
+>> 0 478 2_191114_FoodProteomics_DDA_BASL.7261.7261. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7021 experiment=2" (SQS 0.982)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.773	-0.976	0.000	0.000	649.409	1	SS+43GLY+80
+
+>> 0 479 3_191114_FoodProteomics_DDA_BASL.7261.7261. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7021 experiment=2" (SQS 0.439)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.702	0.854	0.000	0.000	647.373	1	K+43TPTTG
+
+>> 0 480 2_191114_FoodProteomics_DDA_BASL.7273.7273. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7032 experiment=2" (SQS 0.798)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.239	41.482	360.026	0.000	1255.542	2	S+43HNVDS+80N
+
+>> 0 481 3_191114_FoodProteomics_DDA_BASL.7273.7273. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7032 experiment=2" (SQS 0.089)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.869	-12.024	0.000	0.000	627.396	1	T+80DLAK
+
+>> 0 482 2_191114_FoodProteomics_DDA_BASL.7279.7279. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7037 experiment=2" (SQS 0.623)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.344	24.407	0.000	0.000	976.785	2	S+80S+43AQS+80S+80K
+
+>> 0 483 3_191114_FoodProteomics_DDA_BASL.7279.7279. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7037 experiment=2" (SQS 0.407)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.105	17.340	0.000	0.000	976.785	2	S+80S+43AQW+4DR
+
+>> 0 484 2_191114_FoodProteomics_DDA_BASL.7280.7280. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7037 experiment=3" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.955	-5.828	0.000	0.000	649.410	1	S+43SGEVK
+
+>> 0 485 3_191114_FoodProteomics_DDA_BASL.7280.7280. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7037 experiment=3" (SQS 0.933)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.032	-6.130	0.000	0.000	649.410	1	S+43SGVEK
+
+>> 0 486 2_191114_FoodProteomics_DDA_BASL.7285.7285. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7041 experiment=2" (SQS 0.001)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.047	-15.174	0.000	0.000	1163.745	3	KLEY+80K+43GM+16R
+
+>> 0 487 3_191114_FoodProteomics_DDA_BASL.7285.7285. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7041 experiment=2" (SQS 0.001)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.261	-15.174	0.000	0.000	1163.745	3	KLEY+80K+43GM+16R
+
+>> 0 488 2_191114_FoodProteomics_DDA_BASL.7287.7287. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7042 experiment=2" (SQS 0.681)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.158	50.739	0.000	0.000	1255.541	2	PLDS+80Y+80TPFR
+
+>> 0 489 3_191114_FoodProteomics_DDA_BASL.7287.7287. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7042 experiment=2" (SQS 0.060)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.173	-12.815	0.000	0.000	625.359	1	PLDGS+80G
+
+>> 0 490 2_191114_FoodProteomics_DDA_BASL.7289.7289. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7043 experiment=2" (SQS 0.348)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	4.260	16.230	0.000	0.000	959.550	2	LS+80AS+80LT+80K
+
+>> 0 491 3_191114_FoodProteomics_DDA_BASL.7289.7289. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7043 experiment=2" (SQS 0.466)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.951	17.920	0.000	0.000	959.240	2	LS+80AS+80T+80LK
+
+>> 0 492 2_191114_FoodProteomics_DDA_BASL.7291.7291. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7044 experiment=2" (SQS 0.509)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.954	34.641	0.000	0.000	977.714	2	S+80SAS+80NPVR
+
+>> 0 493 3_191114_FoodProteomics_DDA_BASL.7291.7291. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7044 experiment=2" (SQS 0.467)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.495	35.681	101.058	0.000	978.540	2	T+80S+80GTPVR
+
+>> 0 494 2_191114_FoodProteomics_DDA_BASL.7293.7293. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7045 experiment=2" (SQS 0.013)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.547	5.777	0.000	0.000	776.920	2	Q-17PGT+80RR
+
+>> 0 495 3_191114_FoodProteomics_DDA_BASL.7293.7293. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7045 experiment=2" (SQS 0.013)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.634	-1.735	0.000	0.000	777.923	2	QLFY+80K
+
+>> 0 496 2_191114_FoodProteomics_DDA_BASL.7295.7295. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7046 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.374	-8.356	0.000	0.000	1166.868	3	M+16HSYY+80Y+80K
+
+>> 0 497 3_191114_FoodProteomics_DDA_BASL.7295.7295. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7046 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.538	-8.356	0.000	0.000	1166.868	3	M+16HSYY+80Y+80K
+
+>> 0 498 2_191114_FoodProteomics_DDA_BASL.7296.7296. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7046 experiment=3" (SQS 0.971)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.233	5.290	0.000	0.000	625.360	1	S+80SQS+80G
+
+>> 0 499 3_191114_FoodProteomics_DDA_BASL.7296.7296. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7046 experiment=3" (SQS 0.680)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.020	2.813	0.000	0.000	625.360	1	S+80SS+80GK
+
+>> 0 500 2_191114_FoodProteomics_DDA_BASL.7299.7299. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7048 experiment=2" (SQS 0.968)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.664	50.553	298.186	255.158	1299.771	2	GLT+80S+43GHA
+
+>> 0 501 3_191114_FoodProteomics_DDA_BASL.7299.7299. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7048 experiment=2" (SQS 0.307)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.052	0.381	0.000	0.000	647.371	1	GNTPTTG
+
+>> 0 502 2_191114_FoodProteomics_DDA_BASL.7304.7304. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7052 experiment=2" (SQS 0.959)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.737	6.728	0.000	0.000	670.182	1	VVTT+80K+43
+
+>> 0 503 3_191114_FoodProteomics_DDA_BASL.7304.7304. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7052 experiment=2" (SQS 0.430)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.585	0.271	0.000	0.000	670.388	1	TPTT+80K+43
+
+>> 0 504 2_191114_FoodProteomics_DDA_BASL.7306.7306. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7053 experiment=2" (SQS 0.002)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.784	23.439	0.000	0.000	385.939	1	T+80EG
+
+>> 0 505 3_191114_FoodProteomics_DDA_BASL.7306.7306. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7053 experiment=2" (SQS 0.002)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.784	23.439	0.000	0.000	385.939	1	T+80EG
+
+>> 0 506 2_191114_FoodProteomics_DDA_BASL.7308.7308. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7054 experiment=2" (SQS 0.095)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.681	33.736	0.000	340.274	991.694	2	GS+80AAEVG
+
+>> 0 507 3_191114_FoodProteomics_DDA_BASL.7308.7308. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7054 experiment=2" (SQS 0.006)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.457	30.284	0.000	0.000	987.794	2	HLQ+1S+80T+80LK
+
+>> 0 508 2_191114_FoodProteomics_DDA_BASL.7309.7309. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7054 experiment=3" (SQS 0.908)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.166	4.706	0.000	0.000	625.360	1	LPAS+80TG
+
+>> 0 509 3_191114_FoodProteomics_DDA_BASL.7309.7309. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7054 experiment=3" (SQS 0.790)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.605	3.211	0.000	0.000	625.360	1	LPAS+80TG
+
+>> 0 510 2_191114_FoodProteomics_DDA_BASL.7315.7315. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7059 experiment=2" (SQS 0.538)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.005	64.128	369.215	0.000	1299.779	2	S+80LFPTS+43R
+
+>> 0 511 3_191114_FoodProteomics_DDA_BASL.7315.7315. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7059 experiment=2" (SQS 0.274)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.802	30.538	536.243	0.000	1299.675	2	LFATALK
+
+>> 0 512 2_191114_FoodProteomics_DDA_BASL.7322.7322. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7065 experiment=2" (SQS 0.002)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.965	15.041	0.000	0.000	390.112	1	K+43LS
+
+>> 0 513 3_191114_FoodProteomics_DDA_BASL.7322.7322. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7065 experiment=2" (SQS 0.002)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.965	15.041	0.000	0.000	390.112	1	K+43LS
+
+>> 0 514 2_191114_FoodProteomics_DDA_BASL.7324.7324. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7066 experiment=2" (SQS 0.153)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.684	35.422	0.000	0.000	991.488	2	GS+80DGVLSYN
+
+>> 0 515 3_191114_FoodProteomics_DDA_BASL.7324.7324. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7066 experiment=2" (SQS 0.016)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.932	32.559	0.000	0.000	989.732	2	AHAYEY+80R
+
+>> 0 516 2_191114_FoodProteomics_DDA_BASL.7326.7326. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7067 experiment=2" (SQS 0.846)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.195	14.049	0.000	0.000	674.314	1	SVLAQ+1R
+
+>> 0 517 3_191114_FoodProteomics_DDA_BASL.7326.7326. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7067 experiment=2" (SQS 0.789)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.147	-5.944	0.000	0.000	669.385	1	T+80LVVTG
+
+>> 0 518 2_191114_FoodProteomics_DDA_BASL.7327.7327. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7067 experiment=3" (SQS 0.988)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.012	183.921	99.149	0.000	1460.891	2	N+1LLNQELEFLK
+
+>> 0 519 3_191114_FoodProteomics_DDA_BASL.7327.7327. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7067 experiment=3" (SQS 0.979)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.873	186.198	0.000	0.000	1460.787	2	N+1VLLNQELEM+16LK
+
+>> 0 520 2_191114_FoodProteomics_DDA_BASL.7329.7329. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7068 experiment=2" (SQS 0.564)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.513	63.312	297.990	0.000	1299.571	2	AS+80LS+43Y+80S+43K
+
+>> 0 521 3_191114_FoodProteomics_DDA_BASL.7329.7329. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7068 experiment=2" (SQS 0.056)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.586	-19.939	0.000	0.000	648.377	1	YNQGS+80
+
+>> 0 522 2_191114_FoodProteomics_DDA_BASL.7335.7335. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7073 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.121	-15.007	0.000	0.000	1165.874	3	TDK+43FY+80NVR
+
+>> 0 523 3_191114_FoodProteomics_DDA_BASL.7335.7335. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7073 experiment=2" (SQS 0.000)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.708	-6.451	0.000	0.000	1163.868	3	KLEYY+80VLR
+
+>> 0 524 2_191114_FoodProteomics_DDA_BASL.7343.7343. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7080 experiment=2" (SQS 0.999)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.752	25.020	0.000	0.000	674.314	1	NGAGLSR
+
+>> 0 525 3_191114_FoodProteomics_DDA_BASL.7343.7343. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7080 experiment=2" (SQS 0.130)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.441	9.744	0.000	0.000	670.388	1	VVTGS+80K
+
+>> 0 526 2_191114_FoodProteomics_DDA_BASL.7345.7345. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7081 experiment=2" (SQS 0.846)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.694	-6.601	0.000	0.000	649.409	1	SY+80GDK
+
+>> 0 527 3_191114_FoodProteomics_DDA_BASL.7345.7345. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7081 experiment=2" (SQS 0.789)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.141	-8.491	0.000	0.000	648.405	1	TATVEK
+
+>> 0 528 2_191114_FoodProteomics_DDA_BASL.7346.7346. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7081 experiment=3" (SQS 0.114)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.570	20.046	373.281	0.000	1171.739	1	ASALS+80NR
+
+>> 0 529 3_191114_FoodProteomics_DDA_BASL.7346.7346. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7081 experiment=3" (SQS 0.140)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.385	38.385	455.269	0.000	1173.495	1	LDNGGSR
+
+>> 0 530 2_191114_FoodProteomics_DDA_BASL.7366.7366. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7100 experiment=2" (SQS 0.460)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.923	37.932	343.334	0.000	1022.746	2	AGGPPS+80N
+
+>> 0 531 3_191114_FoodProteomics_DDA_BASL.7366.7366. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7100 experiment=2" (SQS 0.603)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.561	29.524	154.089	0.000	1022.569	2	KS+80TTPVR
+
+>> 0 532 2_191114_FoodProteomics_DDA_BASL.7369.7369. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7102 experiment=2" (SQS 0.315)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.500	71.242	297.997	0.000	1299.571	2	AS+80LS+43TN+1ER
+
+>> 0 533 3_191114_FoodProteomics_DDA_BASL.7369.7369. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7102 experiment=2" (SQS 0.578)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.053	-5.907	0.000	0.000	649.410	1	W+4GALAK
+
+>> 0 534 2_191114_FoodProteomics_DDA_BASL.7388.7388. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7120 experiment=2" (SQS 0.324)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.287	43.278	0.000	0.000	1021.741	2	SS+80AS+80APWR
+
+>> 0 535 3_191114_FoodProteomics_DDA_BASL.7388.7388. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7120 experiment=2" (SQS 0.814)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.965	60.988	0.000	0.000	1531.980	3	GK+43DS+80PLAS+80NLK+43R
+
+>> 0 536 2_191114_FoodProteomics_DDA_BASL.7400.7400. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7131 experiment=2" (SQS 0.330)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.983	68.028	448.297	0.000	1299.774	2	SNS+43GYS+80N
+
+>> 0 537 3_191114_FoodProteomics_DDA_BASL.7400.7400. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7131 experiment=2" (SQS 0.916)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.719	12.343	0.000	0.000	648.376	1	TATLSR
+
+>> 0 538 2_191114_FoodProteomics_DDA_BASL.7434.7434. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7164 experiment=2" (SQS 0.214)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.602	23.530	0.000	295.734	1035.200	2	MS+80ALLSG
+
+>> 0 539 3_191114_FoodProteomics_DDA_BASL.7434.7434. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7164 experiment=2" (SQS 0.037)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.334	25.067	0.000	0.000	1031.817	2	HK+43LQEYK+43
+
+>> 0 540 2_191114_FoodProteomics_DDA_BASL.7444.7444. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7173 experiment=2" (SQS 0.986)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.807	190.270	0.000	0.000	1329.711	2	NLDLDSLLAEVK
+
+>> 0 541 3_191114_FoodProteomics_DDA_BASL.7444.7444. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7173 experiment=2" (SQS 0.977)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.967	176.290	0.000	0.000	1329.711	2	VKDLN+1SLLAEVK
+
+>> 0 542 2_191114_FoodProteomics_DDA_BASL.7449.7449. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7177 experiment=2" (SQS 0.991)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.101	172.056	200.107	0.000	1302.804	2	DLDSLLAEVK
+
+>> 0 543 3_191114_FoodProteomics_DDA_BASL.7449.7449. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7177 experiment=2" (SQS 0.990)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.325	186.332	0.000	0.000	1302.804	2	TVDLDSLLAEVK
+
+>> 0 544 2_191114_FoodProteomics_DDA_BASL.7454.7454. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7181 experiment=2" (SQS 0.971)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.348	17.463	0.000	0.000	669.490	1	LPS+80N+1TG
+
+>> 0 545 3_191114_FoodProteomics_DDA_BASL.7454.7454. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7181 experiment=2" (SQS 0.572)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.403	-3.009	0.000	0.000	669.386	1	PLTT+80TG
+
+>> 0 546 2_191114_FoodProteomics_DDA_BASL.7458.7458. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7184 experiment=2" (SQS 0.992)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.048	189.204	0.000	0.000	1329.714	2	NLDLDSLLAEVK
+
+>> 0 547 3_191114_FoodProteomics_DDA_BASL.7458.7458. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7184 experiment=2" (SQS 0.983)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.712	180.314	0.000	0.000	1329.714	2	NLDLDSLLAEVK
+
+>> 0 548 2_191114_FoodProteomics_DDA_BASL.7463.7463. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7188 experiment=2" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.521	173.692	199.689	0.000	1302.699	2	DLDSLLAEVK
+
+>> 0 549 3_191114_FoodProteomics_DDA_BASL.7463.7463. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7188 experiment=2" (SQS 0.988)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.350	184.227	0.000	0.000	1302.802	2	TVDLDSLLAEVK
+
+>> 0 550 2_191114_FoodProteomics_DDA_BASL.7487.7487. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7211 experiment=2" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.932	175.316	0.000	0.000	1302.700	2	TVDLDSLLAEVK
+
+>> 0 551 3_191114_FoodProteomics_DDA_BASL.7487.7487. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7211 experiment=2" (SQS 0.991)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.783	177.764	0.000	0.000	1302.700	2	TVDLDSLLAEVK
+
+>> 0 552 2_191114_FoodProteomics_DDA_BASL.7490.7490. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7213 experiment=2" (SQS 0.705)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.207	33.442	254.066	0.000	1065.562	2	N+1YTGTVR
+
+>> 0 553 3_191114_FoodProteomics_DDA_BASL.7490.7490. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7213 experiment=2" (SQS 0.041)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.303	11.702	0.000	0.000	532.590	1	GT+80FK
+
+>> 0 554 2_191114_FoodProteomics_DDA_BASL.7514.7514. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7236 experiment=2" (SQS 0.719)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.030	42.510	0.000	0.000	1065.664	2	Q-17Q+1Q+1YN+1Y+80R
+
+>> 0 555 3_191114_FoodProteomics_DDA_BASL.7514.7514. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7236 experiment=2" (SQS 0.282)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.743	21.124	0.000	0.000	1064.454	2	S+80S+43AYY+80DR
+
+>> 0 556 2_191114_FoodProteomics_DDA_BASL.7557.7557. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7278 experiment=2" (SQS 0.180)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.740	33.027	295.116	0.000	1076.569	2	ALGETYK
+
+>> 0 557 3_191114_FoodProteomics_DDA_BASL.7557.7557. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7278 experiment=2" (SQS 0.048)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.677	29.292	0.000	0.000	1076.569	2	AYYAQLGYK
+
+>> 0 558 2_191114_FoodProteomics_DDA_BASL.7633.7633. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7353 experiment=2" (SQS 0.758)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.031	44.584	0.000	344.225	1109.687	2	SS+80AS+80GQ+1S
+
+>> 0 559 3_191114_FoodProteomics_DDA_BASL.7633.7633. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7353 experiment=2" (SQS 0.695)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.490	37.086	254.957	0.000	1110.484	2	DNS+80NAVR
+
+>> 0 560 2_191114_FoodProteomics_DDA_BASL.7659.7659. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7378 experiment=2" (SQS 0.592)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.301	47.025	0.000	0.000	1109.689	2	LPN+1S+80TESS+80N
+
+>> 0 561 3_191114_FoodProteomics_DDA_BASL.7659.7659. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7378 experiment=2" (SQS 0.352)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.002	34.475	0.000	0.000	1110.516	2	YYS+80FVAS+80N
+
+>> 0 562 2_191114_FoodProteomics_DDA_BASL.7661.7661. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7379 experiment=2" (SQS 0.058)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.302	31.687	0.000	0.000	1162.728	1	AS+43DNDLS+80FK+43
+
+>> 0 563 3_191114_FoodProteomics_DDA_BASL.7661.7661. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7379 experiment=2" (SQS 0.018)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.111	27.083	201.229	0.000	1162.728	1	DTQLS+80FK+43
+
+>> 0 564 2_191114_FoodProteomics_DDA_BASL.7698.7698. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7415 experiment=2" (SQS 0.128)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.629	27.874	386.243	0.000	1123.668	2	ALPVPNK
+
+>> 0 565 3_191114_FoodProteomics_DDA_BASL.7698.7698. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7415 experiment=2" (SQS 0.035)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.015	19.383	190.146	0.000	1120.805	2	YQLDS+80PK
+
+>> 0 566 2_191114_FoodProteomics_DDA_BASL.7767.7767. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7483 experiment=2" (SQS 0.788)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.764	26.232	0.000	0.000	1153.715	2	MS+80AS+80SS+80STR
+
+>> 0 567 3_191114_FoodProteomics_DDA_BASL.7767.7767. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7483 experiment=2" (SQS 0.301)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.493	9.241	0.000	0.000	574.343	1	GPLS+43TG
+
+>> 0 568 2_191114_FoodProteomics_DDA_BASL.7791.7791. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7506 experiment=2" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.000	26.784	0.000	0.000	577.621	1	TT+80YN
+
+>> 0 569 3_191114_FoodProteomics_DDA_BASL.7791.7791. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7506 experiment=2" (SQS 0.405)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.078	3.905	0.000	0.000	578.034	1	KPGYN
+
+>> 0 570 2_191114_FoodProteomics_DDA_BASL.7828.7828. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7542 experiment=2" (SQS 0.248)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.379	40.373	0.000	299.198	1167.692	2	LPAYGS+80AQ+1
+
+>> 0 571 3_191114_FoodProteomics_DDA_BASL.7828.7828. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7542 experiment=2" (SQS 0.025)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.524	22.667	308.212	0.000	1163.792	2	TGLS+43TYK+43
+
+>> 0 572 2_191114_FoodProteomics_DDA_BASL.7852.7852. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7565 experiment=2" (SQS 0.251)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.066	38.558	356.206	0.000	1167.697	2	GGLGVNS+80K
+
+>> 0 573 3_191114_FoodProteomics_DDA_BASL.7852.7852. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7565 experiment=2" (SQS 0.094)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.732	22.159	413.153	0.000	1167.594	2	GLGVNS+80K
+
+>> 0 574 2_191114_FoodProteomics_DDA_BASL.7888.7888. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7600 experiment=2" (SQS 0.488)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.093	52.340	342.215	0.000	1197.742	2	AANPDLVR
+
+>> 0 575 3_191114_FoodProteomics_DDA_BASL.7888.7888. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7600 experiment=2" (SQS 0.057)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.685	-12.771	0.000	0.000	596.046	1	S+80TT+80AG
+
+>> 0 576 2_191114_FoodProteomics_DDA_BASL.7912.7912. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7623 experiment=2" (SQS 0.627)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.635	58.309	0.000	0.000	1197.742	2	S+80MAN+1NPSN+1S+80N
+
+>> 0 577 3_191114_FoodProteomics_DDA_BASL.7912.7912. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7623 experiment=2" (SQS 0.810)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.139	-11.080	0.000	0.000	598.629	1	AS+43APPL
+
+>> 0 578 2_191114_FoodProteomics_DDA_BASL.7948.7948. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7658 experiment=2" (SQS 0.293)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.915	28.055	0.000	0.000	1210.795	2	S+43T+80AGS+43LST+80LK
+
+>> 0 579 3_191114_FoodProteomics_DDA_BASL.7948.7948. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7658 experiment=2" (SQS 0.060)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.895	17.660	313.192	0.000	1212.728	2	GS+80FST+80LK
+
+>> 0 580 2_191114_FoodProteomics_DDA_BASL.7972.7972. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7681 experiment=2" (SQS 0.480)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.064	24.846	0.000	0.000	1210.793	2	S+80S+43Q+1QQST+80LK
+
+>> 0 581 3_191114_FoodProteomics_DDA_BASL.7972.7972. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7681 experiment=2" (SQS 0.046)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.002	15.431	398.287	0.000	1209.786	2	GPEST+80LK
+
+>> 0 582 2_191114_FoodProteomics_DDA_BASL.8004.8004. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7712 experiment=2" (SQS 0.605)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.539	42.333	298.200	0.000	1241.768	2	DN+1TT+80QQR
+
+>> 0 583 3_191114_FoodProteomics_DDA_BASL.8004.8004. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7712 experiment=2" (SQS 0.500)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.883	-20.262	0.000	0.000	618.369	1	YYSEG
+
+>> 0 584 2_191114_FoodProteomics_DDA_BASL.8027.8027. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7734 experiment=2" (SQS 0.468)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.648	57.059	386.249	0.000	1241.770	2	AYTN+1TER
+
+>> 0 585 3_191114_FoodProteomics_DDA_BASL.8027.8027. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7734 experiment=2" (SQS 0.661)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.074	-22.554	0.000	0.000	619.373	1	GPLMDS
+
+>> 0 586 2_191114_FoodProteomics_DDA_BASL.8064.8064. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7770 experiment=2" (SQS 0.278)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.805	40.887	356.209	0.000	1255.745	2	DGVSLS+80NK
+
+>> 0 587 3_191114_FoodProteomics_DDA_BASL.8064.8064. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7770 experiment=2" (SQS 0.049)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.434	44.141	471.148	0.000	1255.745	2	GVSLNS+80K
+
+>> 0 588 2_191114_FoodProteomics_DDA_BASL.8087.8087. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7792 experiment=2" (SQS 0.546)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.682	36.229	427.158	0.000	1255.750	2	TVGVS+43S+80R
+
+>> 0 589 3_191114_FoodProteomics_DDA_BASL.8087.8087. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7792 experiment=2" (SQS 0.306)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.571	37.309	427.158	0.000	1255.750	2	TVGVS+43S+80R
+
+>> 0 590 2_191114_FoodProteomics_DDA_BASL.8114.8114. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7818 experiment=2" (SQS 0.819)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.592	52.334	342.215	0.000	1285.790	2	DANPANGER
+
+>> 0 591 3_191114_FoodProteomics_DDA_BASL.8114.8114. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7818 experiment=2" (SQS 0.579)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.245	29.673	0.000	0.000	1284.800	2	S+43S+80AS+80ALFY+80R
+
+>> 0 592 2_191114_FoodProteomics_DDA_BASL.8138.8138. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7841 experiment=2" (SQS 0.740)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.076	63.300	475.323	0.000	1286.813	2	APDLN+1S+80N
+
+>> 0 593 3_191114_FoodProteomics_DDA_BASL.8138.8138. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7841 experiment=2" (SQS 0.056)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.006	50.655	387.237	0.000	1928.210	3	AALPDLS+80PANNPS+80N
+
+>> 0 594 2_191114_FoodProteomics_DDA_BASL.8174.8174. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7876 experiment=2" (SQS 0.478)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.848	45.523	211.152	0.000	1300.773	2	ET+80EFLY+80K
+
+>> 0 595 3_191114_FoodProteomics_DDA_BASL.8174.8174. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7876 experiment=2" (SQS 0.115)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.531	41.674	211.049	0.000	1300.670	2	DY+80VELY+80K
+
+>> 0 596 2_191114_FoodProteomics_DDA_BASL.8197.8197. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7898 experiment=2" (SQS 0.393)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.998	37.269	383.085	0.000	1299.677	2	S+80VNS+43S+43TR
+
+>> 0 597 3_191114_FoodProteomics_DDA_BASL.8197.8197. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7898 experiment=2" (SQS 0.064)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.066	36.077	383.188	0.000	1299.780	2	S+80VNS+43S+43EK
+
+>> 0 598 2_191114_FoodProteomics_DDA_BASL.8220.8220. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7920 experiment=2" (SQS 0.559)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.222	35.616	386.236	0.000	1329.811	2	N+1YLT+80VPR
+
+>> 0 599 3_191114_FoodProteomics_DDA_BASL.8220.8220. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7920 experiment=2" (SQS 0.202)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.017	-5.467	0.000	0.000	662.395	1	K+43FS+80TG
+
+>> 0 600 2_191114_FoodProteomics_DDA_BASL.8244.8244. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7943 experiment=2" (SQS 0.771)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.765	52.779	0.000	0.000	1329.814	2	LPAS+80DTYSS+80DN
+
+>> 0 601 3_191114_FoodProteomics_DDA_BASL.8244.8244. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7943 experiment=2" (SQS 0.359)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.175	-19.541	0.000	0.000	663.399	1	GPSLS+43C
+
+>> 0 602 2_191114_FoodProteomics_DDA_BASL.8277.8277. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7975 experiment=2" (SQS 0.343)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.214	41.092	281.152	0.000	1343.791	2	YGGLGVDSS+80K
+
+>> 0 603 3_191114_FoodProteomics_DDA_BASL.8277.8277. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7975 experiment=2" (SQS 0.096)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-4.091	32.263	0.000	0.000	1342.684	2	S+43T+80DEDGS+43Q+1T+80R
+
+>> 0 604 2_191114_FoodProteomics_DDA_BASL.8299.8299. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7996 experiment=2" (SQS 0.188)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.376	47.569	457.259	0.000	1343.788	2	TLGVYGYN
+
+>> 0 605 3_191114_FoodProteomics_DDA_BASL.8299.8299. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=7996 experiment=2" (SQS 0.092)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.158	35.875	427.162	0.000	1343.788	2	S+43NLSS+80S+43R
+
+>> 0 606 2_191114_FoodProteomics_DDA_BASL.8319.8319. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8015 experiment=2" (SQS 0.986)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.635	-0.809	0.000	0.000	687.376	1	NDLAVR
+
+>> 0 607 3_191114_FoodProteomics_DDA_BASL.8319.8319. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8015 experiment=2" (SQS 0.692)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-4.714	42.589	0.000	177.111	1374.845	2	S+43VAAYGPSANAS+80
+
+>> 0 608 2_191114_FoodProteomics_DDA_BASL.8342.8342. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8037 experiment=2" (SQS 0.594)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.722	67.275	343.214	0.000	1373.841	2	SAANPSSQLR
+
+>> 0 609 3_191114_FoodProteomics_DDA_BASL.8342.8342. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8037 experiment=2" (SQS 0.063)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.484	58.304	528.268	0.000	2059.285	3	S+80DEAS+80PPLAFT+80R
+
+>> 0 610 2_191114_FoodProteomics_DDA_BASL.8377.8377. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8071 experiment=2" (SQS 0.368)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.885	27.459	312.159	0.000	1387.816	2	AT+80EFY+80ER
+
+>> 0 611 3_191114_FoodProteomics_DDA_BASL.8377.8377. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8071 experiment=2" (SQS 0.011)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.207	29.252	564.248	0.000	1387.713	2	EPDEGYN
+
+>> 0 612 2_191114_FoodProteomics_DDA_BASL.8419.8419. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8112 experiment=2" (SQS 0.999)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-4.727	56.127	342.309	0.000	1417.967	2	AS+80QTS+80S+80VR
+
+>> 0 613 3_191114_FoodProteomics_DDA_BASL.8419.8419. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8112 experiment=2" (SQS 0.715)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.814	40.223	413.240	0.000	1417.864	2	S+80QYNQQ+1R
+
+>> 0 614 2_191114_FoodProteomics_DDA_BASL.8442.8442. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8134 experiment=2" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.325	60.823	298.185	0.000	1417.866	2	N+1S+80QYNEQR
+
+>> 0 615 3_191114_FoodProteomics_DDA_BASL.8442.8442. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8134 experiment=2" (SQS 0.205)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.414	-25.052	0.000	0.000	706.112	1	T+80QS+80PGG
+
+>> 0 616 2_191114_FoodProteomics_DDA_BASL.8477.8477. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8168 experiment=2" (SQS 0.344)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.970	41.358	325.202	0.000	1431.850	2	YLNVGNLWK
+
+>> 0 617 3_191114_FoodProteomics_DDA_BASL.8477.8477. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8168 experiment=2" (SQS 0.087)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.975	29.649	0.000	0.000	1431.024	2	S+43T+80AS+80S+43LS+80S+43S+80R
+
+>> 0 618 2_191114_FoodProteomics_DDA_BASL.8514.8514. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8204 experiment=2" (SQS 0.870)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.567	60.123	342.222	0.000	1461.892	2	AS+80APS+80NAWR
+
+>> 0 619 3_191114_FoodProteomics_DDA_BASL.8514.8514. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8204 experiment=2" (SQS 0.775)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.840	35.962	343.225	0.000	1462.895	2	AGYPNNS+43LLK
+
+>> 0 620 2_191114_FoodProteomics_DDA_BASL.8537.8537. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8226 experiment=2" (SQS 0.873)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.512	62.066	0.000	326.199	1461.895	2	LPAAS+80NPS+80S+80A
+
+>> 0 621 3_191114_FoodProteomics_DDA_BASL.8537.8537. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8226 experiment=2" (SQS 0.033)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.261	64.091	519.319	0.000	2192.370	3	DNS+80ASSANDNNFT+80R
+
+>> 0 622 2_191114_FoodProteomics_DDA_BASL.8573.8573. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8261 experiment=2" (SQS 0.391)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.621	32.405	0.000	0.000	1475.876	2	LPDYN+1S+80EDY+80AK
+
+>> 0 623 3_191114_FoodProteomics_DDA_BASL.8573.8573. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8261 experiment=2" (SQS 0.036)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.211	19.750	325.374	0.000	1476.053	2	DS+80S+43Y+80T+80S+80K
+
+>> 0 624 2_191114_FoodProteomics_DDA_BASL.8607.8607. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8294 experiment=2" (SQS 0.950)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.155	40.472	430.270	0.000	1505.919	2	AHNY+80LAPPN
+
+>> 0 625 3_191114_FoodProteomics_DDA_BASL.8607.8607. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8294 experiment=2" (SQS 0.192)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-5.261	43.418	0.000	0.000	1505.816	2	LPDLS+80FY+80LHLK
+
+>> 0 626 2_191114_FoodProteomics_DDA_BASL.8630.8630. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8316 experiment=2" (SQS 0.619)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-1.584	44.223	369.221	0.000	1505.919	2	S+80DTYDK+43ER
+
+>> 0 627 3_191114_FoodProteomics_DDA_BASL.8630.8630. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8316 experiment=2" (SQS 0.713)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.989	-23.744	0.000	0.000	750.242	1	S+80WYGTG
+
+>> 0 628 2_191114_FoodProteomics_DDA_BASL.8675.8675. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8360 experiment=2" (SQS 0.065)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-5.178	31.842	0.000	0.000	1519.895	2	LPDYASLEEDLVR
+
+>> 0 629 3_191114_FoodProteomics_DDA_BASL.8675.8675. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8360 experiment=2" (SQS 0.015)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.622	19.172	369.214	0.000	1519.895	2	FY+80SLQ+1QQR
+
+>> 0 630 2_191114_FoodProteomics_DDA_BASL.8708.8708. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8392 experiment=2" (SQS 0.992)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.096	51.889	198.116	0.000	1549.940	2	K+43S+80AS+80PS+43S+43Y+80R
+
+>> 0 631 3_191114_FoodProteomics_DDA_BASL.8708.8708. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8392 experiment=2" (SQS 0.530)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.281	-26.404	0.000	0.000	775.425	1	TTDSPVR
+
+>> 0 632 2_191114_FoodProteomics_DDA_BASL.8735.8735. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8418 experiment=2" (SQS 0.374)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.156	57.499	606.375	0.000	1549.944	2	AN+1S+80DY+80GR
+
+>> 0 633 3_191114_FoodProteomics_DDA_BASL.8735.8735. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8418 experiment=2" (SQS 0.458)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-2.841	39.617	387.227	0.000	1550.947	2	AGYPDLS+43LER
+
+>> 0 634 2_191114_FoodProteomics_DDA_BASL.8776.8776. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8458 experiment=2" (SQS 0.587)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.500	18.633	621.531	0.000	1561.884	2	ASTS+80EPLR
+
+>> 0 635 3_191114_FoodProteomics_DDA_BASL.8776.8776. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8458 experiment=2" (SQS 0.077)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.928	14.373	649.230	0.000	1562.715	2	NLK+43S+43PLR
+
+>> 0 636 2_191114_FoodProteomics_DDA_BASL.8803.8803. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8484 experiment=2" (SQS 0.993)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.714	52.863	342.218	0.000	1593.970	2	AGYYGS+80N+1APDR
+
+>> 0 637 3_191114_FoodProteomics_DDA_BASL.8803.8803. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8484 experiment=2" (SQS 0.928)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.819	-19.726	0.000	0.000	797.440	1	LY+80VS+80R
+
+>> 0 638 2_191114_FoodProteomics_DDA_BASL.8827.8827. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8507 experiment=2" (SQS 0.998)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-3.853	55.947	431.241	0.000	1593.975	2	SN+1YNT+80N+1VLR
+
+>> 0 639 3_191114_FoodProteomics_DDA_BASL.8827.8827. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8507 experiment=2" (SQS 0.874)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.324	-6.459	0.000	0.000	795.170	1	Y+80Y+80S+43C
+
+>> 0 640 2_191114_FoodProteomics_DDA_BASL.8869.8869. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8548 experiment=2" (SQS 0.102)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.488	5.452	0.000	0.000	803.469	1	T+80S+80EGLH
+
+>> 0 641 3_191114_FoodProteomics_DDA_BASL.8869.8869. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8548 experiment=2" (SQS 0.064)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.988	-10.678	0.000	0.000	803.529	1	T+80S+80EGLH
+
+>> 0 642 2_191114_FoodProteomics_DDA_BASL.8887.8887. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8565 experiment=2" (SQS 0.682)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.280	-22.964	0.000	0.000	817.521	1	RY+80ENR
+
+>> 0 643 3_191114_FoodProteomics_DDA_BASL.8887.8887. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8565 experiment=2" (SQS 0.532)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.557	-21.801	0.000	0.000	817.521	1	RY+80ENR
+
+>> 0 644 2_191114_FoodProteomics_DDA_BASL.8911.8911. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8588 experiment=2" (SQS 0.572)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.602	-15.215	0.000	0.000	818.600	1	N+1LY+80GDR
+
+>> 0 645 3_191114_FoodProteomics_DDA_BASL.8911.8911. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8588 experiment=2" (SQS 0.477)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.052	-15.646	0.000	0.000	818.600	1	N+1LY+80GN+1R
+
+>> 0 646 2_191114_FoodProteomics_DDA_BASL.8953.8953. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8629 experiment=2" (SQS 0.042)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.140	-11.930	0.000	0.000	825.512	1	K+43Y+80PS+80K
+
+>> 0 647 3_191114_FoodProteomics_DDA_BASL.8953.8953. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8629 experiment=2" (SQS 0.036)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.032	-22.466	0.000	0.000	825.512	1	K+43Y+80PS+80K
+
+>> 0 648 2_191114_FoodProteomics_DDA_BASL.8969.8969. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8644 experiment=2" (SQS 0.653)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.187	-10.557	0.000	0.000	842.679	1	Y+80Y+80LS+80G
+
+>> 0 649 3_191114_FoodProteomics_DDA_BASL.8969.8969. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8644 experiment=2" (SQS 0.526)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.288	-10.622	0.000	0.000	842.473	1	Y+80Y+80LS+80G
+
+>> 0 650 2_191114_FoodProteomics_DDA_BASL.8993.8993. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8667 experiment=2" (SQS 0.691)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.459	-14.383	0.000	0.000	843.329	1	Y+80K+43SS+80R
+
+>> 0 651 3_191114_FoodProteomics_DDA_BASL.8993.8993. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8667 experiment=2" (SQS 0.610)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.063	-35.289	0.000	0.000	842.680	1	AT+80YGGS+80K
+
+>> 0 652 2_191114_FoodProteomics_DDA_BASL.9055.9055. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8728 experiment=2" (SQS 0.762)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.232	-22.874	101.069	0.000	862.523	1	FLSAAPR
+
+>> 0 653 3_191114_FoodProteomics_DDA_BASL.9055.9055. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8728 experiment=2" (SQS 0.617)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.390	-29.799	0.000	0.000	861.520	1	GPS+80VLT+80K
+
+>> 0 654 2_191114_FoodProteomics_DDA_BASL.9079.9079. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8751 experiment=2" (SQS 0.436)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.474	-6.974	0.000	0.000	861.520	1	GPGDVFNR
+
+>> 0 655 3_191114_FoodProteomics_DDA_BASL.9079.9079. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8751 experiment=2" (SQS 0.512)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.010	-20.664	154.127	0.000	861.520	1	GDPSGFK
+
+>> 0 656 2_191114_FoodProteomics_DDA_BASL.9136.9136. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8807 experiment=2" (SQS 0.756)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.397	-24.426	0.000	0.000	886.807	1	AT+80QEDDK
+
+>> 0 657 3_191114_FoodProteomics_DDA_BASL.9136.9136. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8807 experiment=2" (SQS 0.559)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.862	-35.978	0.000	0.000	886.320	1	Y+80K+43S+80ASK
+
+>> 0 658 2_191114_FoodProteomics_DDA_BASL.9160.9160. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8830 experiment=2" (SQS 0.669)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.637	-32.653	0.000	0.000	884.357	1	K+43Y+80QS+80R
+
+>> 0 659 3_191114_FoodProteomics_DDA_BASL.9160.9160. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8830 experiment=2" (SQS 0.691)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.780	-35.916	0.000	0.000	884.357	1	K+43Y+80KS+80R
+
+>> 0 660 2_191114_FoodProteomics_DDA_BASL.9216.9216. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8885 experiment=2" (SQS 0.636)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.204	-25.213	0.000	0.000	905.234	1	K+43Y+80SVS+43R
+
+>> 0 661 3_191114_FoodProteomics_DDA_BASL.9216.9216. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8885 experiment=2" (SQS 0.586)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.869	-32.248	0.000	0.000	906.710	1	Q-17GS+80S+80S+43VR
+
+>> 0 662 2_191114_FoodProteomics_DDA_BASL.9299.9299. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8967 experiment=2" (SQS 0.694)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.439	-21.804	0.000	0.000	929.522	1	Y+80LN+1ST+80K+43
+
+>> 0 663 3_191114_FoodProteomics_DDA_BASL.9299.9299. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=8967 experiment=2" (SQS 0.720)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.297	-21.940	0.000	0.000	929.522	1	Y+80LN+1ST+80K+43
+
+>> 0 664 2_191114_FoodProteomics_DDA_BASL.9382.9382. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=9049 experiment=2" (SQS 0.833)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.996	-21.838	0.000	0.000	951.744	1	S+80S+80N+1SPEK+43
+
+>> 0 665 3_191114_FoodProteomics_DDA_BASL.9382.9382. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=9049 experiment=2" (SQS 0.665)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.180	-17.724	0.000	0.000	951.744	1	S+80S+80N+1STS+80K
+
+>> 0 666 2_191114_FoodProteomics_DDA_BASL.9460.9460. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=9126 experiment=2" (SQS 0.798)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.728	-0.984	0.000	0.000	971.174	1	VS+80VS+80S+43YK
+
+>> 0 667 3_191114_FoodProteomics_DDA_BASL.9460.9460. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=9126 experiment=2" (SQS 0.797)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.809	-1.007	0.000	0.000	971.174	1	VS+80VS+80S+43YK
+
+>> 0 668 2_191114_FoodProteomics_DDA_BASL.9540.9540. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=9205 experiment=2" (SQS 0.435)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.909	-17.855	218.183	0.000	995.561	1	GFDAVLR
+
+>> 0 669 3_191114_FoodProteomics_DDA_BASL.9540.9540. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=9205 experiment=2" (SQS 0.435)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.909	-17.855	218.183	0.000	995.561	1	GFDAVLR
+
+>> 0 670 2_191114_FoodProteomics_DDA_BASL.10921.10921. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10585 experiment=2" (SQS 0.903)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.145	17.524	0.000	0.000	589.488	1	AAAS+43VK
+
+>> 0 671 3_191114_FoodProteomics_DDA_BASL.10921.10921. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10585 experiment=2" (SQS 0.896)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.211	17.703	0.000	0.000	589.488	1	AAAS+43VK
+
+>> 0 672 2_191114_FoodProteomics_DDA_BASL.10923.10923. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10586 experiment=2" (SQS 0.926)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.413	11.800	0.000	0.000	593.103	1	S+43SGGSR
+
+>> 0 673 3_191114_FoodProteomics_DDA_BASL.10923.10923. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10586 experiment=2" (SQS 0.956)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.411	11.752	0.000	0.000	591.066	1	LTTQK
+
+>> 0 674 2_191114_FoodProteomics_DDA_BASL.10935.10935. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10597 experiment=2" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.988	17.790	0.000	0.000	776.883	1	S+43AEANSR
+
+>> 0 675 3_191114_FoodProteomics_DDA_BASL.10935.10935. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10597 experiment=2" (SQS 0.995)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.988	17.790	0.000	0.000	776.883	1	S+43AEANSR
+
+>> 0 676 2_191114_FoodProteomics_DDA_BASL.10937.10937. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10598 experiment=2" (SQS 0.136)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.579	25.654	0.000	0.000	806.282	2	GPFS+43GK+43K
+
+>> 0 677 3_191114_FoodProteomics_DDA_BASL.10937.10937. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10598 experiment=2" (SQS 0.005)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.762	14.832	0.000	0.000	1209.920	3	K+43S+43ES+80T+80QER
+
+>> 0 678 2_191114_FoodProteomics_DDA_BASL.10938.10938. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10598 experiment=3" (SQS 0.994)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.937	4.592	0.000	0.000	587.319	1	VGELLG
+
+>> 0 679 3_191114_FoodProteomics_DDA_BASL.10938.10938. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10598 experiment=3" (SQS 0.994)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.661	4.592	0.000	0.000	587.319	1	VGELLG
+
+>> 0 680 2_191114_FoodProteomics_DDA_BASL.10946.10946. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10605 experiment=2" (SQS 0.029)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.169	31.206	0.000	0.000	1204.699	3	YT+80GY+80LATQK
+
+>> 0 681 3_191114_FoodProteomics_DDA_BASL.10946.10946. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10605 experiment=2" (SQS 0.043)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.987	30.036	344.113	0.000	1204.699	3	GLY+80ATQK
+
+>> 0 682 2_191114_FoodProteomics_DDA_BASL.11241.11241. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10899 experiment=2" (SQS 0.080)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.575	17.147	0.000	0.000	875.772	2	HGFLVFR
+
+>> 0 683 3_191114_FoodProteomics_DDA_BASL.11241.11241. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10899 experiment=2" (SQS 0.027)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.084	10.057	0.000	0.000	876.780	2	SS+80YALQK
+
+>> 0 684 2_191114_FoodProteomics_DDA_BASL.11243.11243. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10900 experiment=2" (SQS 0.021)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.187	32.000	0.000	0.000	462.273	1	W+4PR
+
+>> 0 685 3_191114_FoodProteomics_DDA_BASL.11243.11243. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10900 experiment=2" (SQS 0.011)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.334	10.976	0.000	0.000	920.738	2	SS+80YY+80LK
+
+>> 0 686 2_191114_FoodProteomics_DDA_BASL.11244.11244. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10900 experiment=3" (SQS 0.256)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.635	22.855	0.000	0.000	964.340	2	VY+80YALQK
+
+>> 0 687 3_191114_FoodProteomics_DDA_BASL.11244.11244. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10900 experiment=3" (SQS 0.022)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	0.378	32.000	0.000	0.000	483.353	1	K+43HR
+
+>> 0 688 2_191114_FoodProteomics_DDA_BASL.11245.11245. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10900 experiment=4" (SQS 0.065)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.231	30.964	0.000	0.000	502.329	1	SAS+80TG
+
+>> 0 689 3_191114_FoodProteomics_DDA_BASL.11245.11245. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10900 experiment=4" (SQS 0.065)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.231	30.964	0.000	0.000	502.329	1	SAS+80TG
+
+>> 0 690 2_191114_FoodProteomics_DDA_BASL.11247.11247. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10901 experiment=2" (SQS 0.471)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.545	29.476	0.000	0.000	1053.719	2	QK+43YGYPVR
+
+>> 0 691 3_191114_FoodProteomics_DDA_BASL.11247.11247. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10901 experiment=2" (SQS 0.141)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	3.206	2.425	299.289	0.000	1053.823	2	PS+43GVGS+80K
+
+>> 0 692 2_191114_FoodProteomics_DDA_BASL.11248.11248. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10901 experiment=3" (SQS 0.055)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.653	32.000	0.000	0.000	549.527	1	MY+80R
+
+>> 0 693 3_191114_FoodProteomics_DDA_BASL.11248.11248. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10901 experiment=3" (SQS 0.050)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	2.406	5.623	220.129	0.000	1097.844	2	S+80YAGS+43N+1R
+
+>> 0 694 2_191114_FoodProteomics_DDA_BASL.11250.11250. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10902 experiment=2" (SQS 0.146)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	1.151	19.421	343.207	0.000	1141.768	2	PS+43GVS+80TK
+
+>> 0 695 3_191114_FoodProteomics_DDA_BASL.11250.11250. File:"191114_FoodProteomics_DDA_BASL.wiff", NativeID:"sample=1 period=1 cycle=10902 experiment=2" (SQS 0.094)
+#Index	RnkScr	PnvScr	N-Gap	C-Gap	[M+H]	Charge	Sequence
+0	-0.518	6.844	357.264	0.000	1141.768	2	VNGVT+80SK
+
+#Processed spectra 696/696
